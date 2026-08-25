@@ -1,10 +1,8 @@
 <div align="center"> <img src="assests/solari.svg" width="100%" alt="Split-flap status board"> </div> <br>
 <div align="center"> <img src="assests/pacman.svg" width="100%" alt="Pac-Man eating buzzwords"> </div>
 
-Backend-leaning engineer · IIT Kharagpur '26
-The hard part is the design, not the syntax.
-Ex-competitive programmer, so I still think in constraints.
-Most of my good commits are deletions.
+<div I like problems where the hard part is the design, not the syntax.> </div>
+<div I take vague requirements and turn them into schemas that hold up.> </div>
 
 <table>
 <tr><td><b>Languages</b></td><td><img height="30" src="https://skillicons.dev/icons?i=ts,py,cpp,java,js,bash,go&theme=dark"></td></tr>
