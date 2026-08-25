@@ -1,9 +1,3 @@
-<div align="center">
-<b>Harshil Aggarwal</b>
-<br>
-</div>
-<br>
-
 <div align="center"> <img src="assests/solari.svg" width="100%" alt="Split-flap status board"> </div> <br>
 <div align="center"> <img src="assests/pacman.svg" width="100%" alt="Pac-Man eating buzzwords"> </div>
 
