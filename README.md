@@ -12,6 +12,7 @@ Most drawn to backend work where the difficulty is in the design rather than the
 <details open>
 <summary><b>⚡ Frontend</b></summary>
 
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff)
 ![React](https://img.shields.io/badge/React-00D8FF?style=flat-square&logo=react&logoColor=000)
