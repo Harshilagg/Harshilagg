@@ -7,10 +7,10 @@ Ex-competitive programmer, so I still think in constraints.
 Most of my good commits are deletions.
 
 <table>
-<tr><td><b>Languages</b></td><td><img height="36" src="https://skillicons.dev/icons?i=ts,py,cpp,java,js,bash,go&theme=dark"></td></tr>
-<tr><td><b>Backend</b></td><td><img height="36" src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring,prisma,redis,kafka,postgres,mongodb&theme=dark"></td></tr>
-<tr><td><b>Frontend</b></td><td><img height="36" src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,vite,html,css&theme=dark"></td></tr>
-<tr><td><b>DevOps</b></td><td><img height="36" src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,nginx,linux,vercel&theme=dark"></td></tr>
+<tr><td><b>Languages</b></td><td><img height="30" src="https://skillicons.dev/icons?i=ts,py,cpp,java,js,bash,go&theme=dark"></td></tr>
+<tr><td><b>Backend</b></td><td><img height="30" src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring,prisma,redis,kafka,postgres,mongodb&theme=dark"></td></tr>
+<tr><td><b>Frontend</b></td><td><img height="30" src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,vite,html,css&theme=dark"></td></tr>
+<tr><td><b>DevOps</b></td><td><img height="30" src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,nginx,linux,vercel&theme=dark"></td></tr>
 </table>
 
 
