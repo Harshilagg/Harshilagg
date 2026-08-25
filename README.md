@@ -12,3 +12,4 @@ Most drawn to backend work where the difficulty is in the design rather than the
 <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Harshilagg/Harshilagg/output/pacman-contribution-graph-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Harshilagg/Harshilagg/output/pacman-contribution-graph.svg"> <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Harshilagg/Harshilagg/output/pacman-contribution-graph.svg"> </picture>
 
 <div align="right"> <a href="https://www.linkedin.com/in/harshil-aggarwal-950540255/"> <img src="assests/linkedin.svg" width="22" alt="LinkedIn"> </a> &nbsp; <a href="mailto:harshilaggarwal0207@gmail.com"> <img src="assests/mail.svg" width="22" alt="Email"> </a> </div>
+<img src="https://demolab.com" alt="Solari Board Animation" />
