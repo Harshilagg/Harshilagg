@@ -6,12 +6,22 @@
 <div align="center">
 
 <table>
+<thead>
 <tr>
-<td align="center"><sub><code>LANGUAGES</code></sub><br><img height="30" src="https://skillicons.dev/icons?i=ts,py,cpp,java,js,bash,go&theme=dark"></td>
-<td align="center"><sub><code>BACKEND</code></sub><br><img height="30" src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring,prisma,redis,kafka,postgres,mongodb&theme=dark"></td>
-<td align="center"><sub><code>FRONTEND</code></sub><br><img height="30" src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,vite,html,css&theme=dark"></td>
-<td align="center"><sub><code>DEVOPS</code></sub><br><img height="30" src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,nginx,linux,vercel&theme=dark"></td>
+<th align="center"><sub><code>LANGUAGES</code></sub></th>
+<th align="center"><sub><code>BACKEND</code></sub></th>
+<th align="center"><sub><code>FRONTEND</code></sub></th>
+<th align="center"><sub><code>DEVOPS</code></sub></th>
 </tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><img height="30" src="https://skillicons.dev/icons?i=ts,py,cpp,java,js,bash,go&theme=dark"></td>
+<td align="center"><img height="30" src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring,prisma,redis,kafka,postgres,mongodb&theme=dark"></td>
+<td align="center"><img height="30" src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,vite,html,css&theme=dark"></td>
+<td align="center"><img height="30" src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,nginx,linux,vercel&theme=dark"></td>
+</tr>
+</tbody>
 </table>
 
 </div>
