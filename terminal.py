@@ -1,5 +1,5 @@
-LINE1 = "> I like problems where the hard part is the design, not the syntax."
-LINE2 = "> I take vague requirements and turn them into schemas that hold up."
+LINE1 = "> breaking systems by day (security), building them by night (AI/full-stack)"
+LINE2 = "> IIT Kharagpur '26 . Codeforces Specialist . always shipping something"
 
 FS = 20
 CW = 13                 # per-character advance (matches pacman.py at the same font size)
