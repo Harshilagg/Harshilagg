@@ -27,4 +27,4 @@
 </div>
 
 
-<br> <div align="right"> <a href="https://www.linkedin.com/in/harshil-aggarwal-950540255/"> <img src="assests/linkedin.svg" width="22" alt="LinkedIn"> </a> &nbsp; <a href="mailto:harshilaggarwal0207@gmail.com"> <img src="assests/mail.svg" width="22" alt="Email"> </a> </div>
+<br> <div align="right"> <a href="https://www.linkedin.com/in/harshil-aggarwal-950540255/"> <img src="assests/linkedin.svg" width="30" alt="LinkedIn"> </a> &nbsp; <a href="mailto:harshilaggarwal0207@gmail.com"> <img src="assests/mail.svg" width="30" alt="Email"> </a> </div>
