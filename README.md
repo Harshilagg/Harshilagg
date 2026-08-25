@@ -5,7 +5,9 @@ The hard part is the design, not the syntax.
 Ex-competitive programmer, so I still think in constraints.
 Most of my good commits are deletions.
 <div align="center"> <img src="assests/solari.svg" width="100%" alt="Split-flap status board"> </div> <br>
-
+<a href="https://skillicons.dev">
+  <img height="40" src="https://skillicons.dev/icons?i=ts,py,cpp,java,js&theme=dark">
+</a>
 **Languages**
 
 [![Languages](https://skillicons.dev/icons?i=java,py,ts,js,cpp,go,bash&theme=dark)](https://skillicons.dev)
