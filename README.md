@@ -10,7 +10,7 @@
 
 <div align="center"> <img src="assests/terminal.svg" width="100%" alt="Terminal: about me"> </div>
 
-<div align="center">
+<div align="left">
 
 <sub><code>LANGUAGES</code></sub>
 <br>
