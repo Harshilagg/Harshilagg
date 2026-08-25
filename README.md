@@ -2,6 +2,7 @@
 <div align="center"> <img src="assests/pacman.svg" width="100%" alt="Pac-Man eating buzzwords"> </div>
 
  I like problems where the hard part is the design, not the syntax.
+ <br><br>
  I take vague requirements and turn them into schemas that hold up.
 
 <table>
