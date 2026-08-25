@@ -1,0 +1,126 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 844 150" width="844" height="150" role="img" aria-label="Pac-Man eating buzzwords">
+<style>
+  .panel  { fill: #0d1117; }
+  .noise  { font-family: ui-monospace, "SF Mono", SFMono-Regular, Menlo, Consolas, monospace;
+             font-size: 20px; fill: #6e7681; text-anchor: middle; letter-spacing: 0;
+             animation-duration: 14.0s; animation-timing-function: steps(1,end);
+             animation-iteration-count: infinite; }
+  .truth  { font-family: ui-monospace, "SF Mono", SFMono-Regular, Menlo, Consolas, monospace;
+             font-size: 20px; fill: #e8edf3; text-anchor: middle;
+             animation: reveal 14.0s linear infinite; opacity: 0; }
+  .rider  { animation: drive 14.0s linear infinite; }
+  .ghost1 { animation: chase 14.0s linear infinite; }
+  .ghost2 { animation: chase2 14.0s linear infinite; }
+  .jaw    { fill: #ffd93d; }
+@keyframes drive{0%,4.286%{transform:translateX(-40.0px)}64.286%,100%{transform:translateX(884.0px)}}
+@keyframes chase{0%,4.286%{transform:translateX(-158.0px)}64.286%,100%{transform:translateX(766.0px)}}
+@keyframes chase2{0%,4.286%{transform:translateX(-236.0px)}64.286%,100%{transform:translateX(688.0px)}}
+@keyframes reveal{0%,68.571%{opacity:0}74.286%,91.429%{opacity:1}97.143%,100%{opacity:0}}
+@keyframes e0{0%,16.981%{opacity:1}17.231%,100%{opacity:0}}
+@keyframes e1{0%,17.825%{opacity:1}18.075%,100%{opacity:0}}
+@keyframes e2{0%,18.669%{opacity:1}18.919%,100%{opacity:0}}
+@keyframes e3{0%,19.513%{opacity:1}19.763%,100%{opacity:0}}
+@keyframes e4{0%,20.357%{opacity:1}20.607%,100%{opacity:0}}
+@keyframes e5{0%,21.201%{opacity:1}21.451%,100%{opacity:0}}
+@keyframes e6{0%,22.045%{opacity:1}22.295%,100%{opacity:0}}
+@keyframes e7{0%,22.890%{opacity:1}23.140%,100%{opacity:0}}
+@keyframes e8{0%,23.734%{opacity:1}23.984%,100%{opacity:0}}
+@keyframes e9{0%,24.578%{opacity:1}24.828%,100%{opacity:0}}
+@keyframes e10{0%,25.422%{opacity:1}25.672%,100%{opacity:0}}
+@keyframes e11{0%,26.266%{opacity:1}26.516%,100%{opacity:0}}
+@keyframes e12{0%,27.110%{opacity:1}27.360%,100%{opacity:0}}
+@keyframes e13{0%,27.955%{opacity:1}28.205%,100%{opacity:0}}
+@keyframes e14{0%,28.799%{opacity:1}29.049%,100%{opacity:0}}
+@keyframes e15{0%,29.643%{opacity:1}29.893%,100%{opacity:0}}
+@keyframes e16{0%,30.487%{opacity:1}30.737%,100%{opacity:0}}
+@keyframes e17{0%,31.331%{opacity:1}31.581%,100%{opacity:0}}
+@keyframes e18{0%,32.175%{opacity:1}32.425%,100%{opacity:0}}
+@keyframes e19{0%,33.019%{opacity:1}33.269%,100%{opacity:0}}
+@keyframes e20{0%,33.864%{opacity:1}34.114%,100%{opacity:0}}
+@keyframes e21{0%,34.708%{opacity:1}34.958%,100%{opacity:0}}
+@keyframes e22{0%,35.552%{opacity:1}35.802%,100%{opacity:0}}
+@keyframes e23{0%,36.396%{opacity:1}36.646%,100%{opacity:0}}
+@keyframes e24{0%,37.240%{opacity:1}37.490%,100%{opacity:0}}
+@keyframes e25{0%,38.084%{opacity:1}38.334%,100%{opacity:0}}
+@keyframes e26{0%,38.929%{opacity:1}39.179%,100%{opacity:0}}
+@keyframes e27{0%,39.773%{opacity:1}40.023%,100%{opacity:0}}
+@keyframes e28{0%,40.617%{opacity:1}40.867%,100%{opacity:0}}
+@keyframes e29{0%,41.461%{opacity:1}41.711%,100%{opacity:0}}
+@keyframes e30{0%,42.305%{opacity:1}42.555%,100%{opacity:0}}
+@keyframes e31{0%,43.149%{opacity:1}43.399%,100%{opacity:0}}
+@keyframes e32{0%,43.994%{opacity:1}44.244%,100%{opacity:0}}
+@keyframes e33{0%,44.838%{opacity:1}45.088%,100%{opacity:0}}
+@keyframes e34{0%,45.682%{opacity:1}45.932%,100%{opacity:0}}
+@keyframes e35{0%,46.526%{opacity:1}46.776%,100%{opacity:0}}
+@keyframes e36{0%,47.370%{opacity:1}47.620%,100%{opacity:0}}
+@keyframes e37{0%,48.214%{opacity:1}48.464%,100%{opacity:0}}
+@keyframes e38{0%,49.058%{opacity:1}49.308%,100%{opacity:0}}
+@keyframes e39{0%,49.903%{opacity:1}50.153%,100%{opacity:0}}
+@keyframes e40{0%,50.747%{opacity:1}50.997%,100%{opacity:0}}
+@keyframes e41{0%,51.591%{opacity:1}51.841%,100%{opacity:0}}
+@media (prefers-reduced-motion: reduce) {
+  .rider,.ghost1,.ghost2,.noise { animation: none }
+  .truth { animation: none; opacity: 1 }
+}
+</style>
+<rect class="panel" x="0" y="0" width="844" height="150" rx="10"/>
+<text class="noise" x="155.5" y="92" style="animation-name:e0">P</text>
+<text class="noise" x="168.5" y="92" style="animation-name:e1">A</text>
+<text class="noise" x="181.5" y="92" style="animation-name:e2">S</text>
+<text class="noise" x="194.5" y="92" style="animation-name:e3">S</text>
+<text class="noise" x="207.5" y="92" style="animation-name:e4">I</text>
+<text class="noise" x="220.5" y="92" style="animation-name:e5">O</text>
+<text class="noise" x="233.5" y="92" style="animation-name:e6">N</text>
+<text class="noise" x="246.5" y="92" style="animation-name:e7">A</text>
+<text class="noise" x="259.5" y="92" style="animation-name:e8">T</text>
+<text class="noise" x="272.5" y="92" style="animation-name:e9">E</text>
+<text class="noise" x="298.5" y="92" style="animation-name:e11">·</text>
+<text class="noise" x="324.5" y="92" style="animation-name:e13">N</text>
+<text class="noise" x="337.5" y="92" style="animation-name:e14">I</text>
+<text class="noise" x="350.5" y="92" style="animation-name:e15">N</text>
+<text class="noise" x="363.5" y="92" style="animation-name:e16">J</text>
+<text class="noise" x="376.5" y="92" style="animation-name:e17">A</text>
+<text class="noise" x="402.5" y="92" style="animation-name:e19">·</text>
+<text class="noise" x="428.5" y="92" style="animation-name:e21">R</text>
+<text class="noise" x="441.5" y="92" style="animation-name:e22">O</text>
+<text class="noise" x="454.5" y="92" style="animation-name:e23">C</text>
+<text class="noise" x="467.5" y="92" style="animation-name:e24">K</text>
+<text class="noise" x="480.5" y="92" style="animation-name:e25">S</text>
+<text class="noise" x="493.5" y="92" style="animation-name:e26">T</text>
+<text class="noise" x="506.5" y="92" style="animation-name:e27">A</text>
+<text class="noise" x="519.5" y="92" style="animation-name:e28">R</text>
+<text class="noise" x="545.5" y="92" style="animation-name:e30">·</text>
+<text class="noise" x="571.5" y="92" style="animation-name:e32">1</text>
+<text class="noise" x="584.5" y="92" style="animation-name:e33">0</text>
+<text class="noise" x="597.5" y="92" style="animation-name:e34">X</text>
+<text class="noise" x="623.5" y="92" style="animation-name:e36">·</text>
+<text class="noise" x="649.5" y="92" style="animation-name:e38">G</text>
+<text class="noise" x="662.5" y="92" style="animation-name:e39">U</text>
+<text class="noise" x="675.5" y="92" style="animation-name:e40">R</text>
+<text class="noise" x="688.5" y="92" style="animation-name:e41">U</text>
+<text class="truth" x="422.0" y="92">just builds things that work</text>
+
+<g class="ghost2"><g transform="translate(0,84)">
+  <path d="M -14 13 L -14 -2 A 14 14 0 0 1 14 -2 L 14 13 L 9.3 8.3 L 4.6 13 L 0 8.3 L -4.6 13 L -9.3 8.3 Z" fill="#5ad2f4"/>
+  <ellipse cx="-5" cy="-2" rx="4.2" ry="5" fill="#fff"/><ellipse cx="5" cy="-2" rx="4.2" ry="5" fill="#fff"/>
+  <circle cx="-3.6" cy="-2" r="2.1" fill="#0d1117"/><circle cx="6.4" cy="-2" r="2.1" fill="#0d1117"/>
+</g></g>
+<g class="ghost1"><g transform="translate(0,84)">
+  <path d="M -14 13 L -14 -2 A 14 14 0 0 1 14 -2 L 14 13 L 9.3 8.3 L 4.6 13 L 0 8.3 L -4.6 13 L -9.3 8.3 Z" fill="#ef5f5f"/>
+  <ellipse cx="-5" cy="-2" rx="4.2" ry="5" fill="#fff"/><ellipse cx="5" cy="-2" rx="4.2" ry="5" fill="#fff"/>
+  <circle cx="-3.6" cy="-2" r="2.1" fill="#0d1117"/><circle cx="6.4" cy="-2" r="2.1" fill="#0d1117"/>
+</g></g>
+
+<g class="rider"><g transform="translate(0,84)">
+  <path class="jaw" d="M0,0 L20,0 A20,20 0 0 0 -20,0 Z">
+    <animateTransform attributeName="transform" type="rotate"
+      values="0 0 0; -34 0 0; 0 0 0" dur="0.34s" repeatCount="indefinite"
+      calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1"/>
+  </path>
+  <path class="jaw" d="M0,0 L-20,0 A20,20 0 0 0 20,0 Z">
+    <animateTransform attributeName="transform" type="rotate"
+      values="0 0 0; 34 0 0; 0 0 0" dur="0.34s" repeatCount="indefinite"
+      calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1"/>
+  </path>
+</g></g>
+</svg>
