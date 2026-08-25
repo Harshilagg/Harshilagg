@@ -1,0 +1,661 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 848 76" width="848" height="76" role="img" aria-label="Split-flap board">
+<style>
+  .board-bg { fill: #0d1117; }
+  .cell-bg  { fill: #16191f; }
+  .seam     { stroke: #0d1117; stroke-width: 2; }
+  .glyph    { font-family: ui-monospace, "SF Mono", SFMono-Regular, Menlo, Consolas, monospace;
+               font-size: 24px; font-weight: 600; fill: #e8edf3; text-anchor: middle; }
+  .strip    { animation: flap 16.0s steps(1, end) infinite; }
+@keyframes flap {
+  0.0000% { transform: translateY(0px); }
+  0.7500% { transform: translateY(-44px); }
+  1.5000% { transform: translateY(-88px); }
+  2.2500% { transform: translateY(-132px); }
+  3.0000% { transform: translateY(-176px); }
+  25.0000% { transform: translateY(-220px); }
+  25.7500% { transform: translateY(-264px); }
+  26.5000% { transform: translateY(-308px); }
+  27.2500% { transform: translateY(-352px); }
+  28.0000% { transform: translateY(-396px); }
+  50.0000% { transform: translateY(-440px); }
+  50.7500% { transform: translateY(-484px); }
+  51.5000% { transform: translateY(-528px); }
+  52.2500% { transform: translateY(-572px); }
+  53.0000% { transform: translateY(-616px); }
+  75.0000% { transform: translateY(-660px); }
+  75.7500% { transform: translateY(-704px); }
+  76.5000% { transform: translateY(-748px); }
+  77.2500% { transform: translateY(-792px); }
+  78.0000% { transform: translateY(-836px); }
+  100% { transform: translateY(0px); }
+}
+@media (prefers-reduced-motion: reduce) { .strip { animation: none; } }
+</style>
+<defs>
+<clipPath id="c0"><rect x="18" y="16" width="30" height="44" rx="4"/></clipPath>
+<clipPath id="c1"><rect x="52" y="16" width="30" height="44" rx="4"/></clipPath>
+<clipPath id="c2"><rect x="86" y="16" width="30" height="44" rx="4"/></clipPath>
+<clipPath id="c3"><rect x="120" y="16" width="30" height="44" rx="4"/></clipPath>
+<clipPath id="c4"><rect x="154" y="16" width="30" height="44" rx="4"/></clipPath>
+<clipPath id="c5"><rect x="188" y="16" width="30" height="44" rx="4"/></clipPath>
+<clipPath id="c6"><rect x="222" y="16" width="30" height="44" rx="4"/></clipPath>
+<clipPath id="c7"><rect x="256" y="16" width="30" height="44" rx="4"/></clipPath>
+<clipPath id="c8"><rect x="290" y="16" width="30" height="44" rx="4"/></clipPath>
+<clipPath id="c9"><rect x="324" y="16" width="30" height="44" rx="4"/></clipPath>
+<clipPath id="c10"><rect x="358" y="16" width="30" height="44" rx="4"/></clipPath>
+<clipPath id="c11"><rect x="392" y="16" width="30" height="44" rx="4"/></clipPath>
+<clipPath id="c12"><rect x="426" y="16" width="30" height="44" rx="4"/></clipPath>
+<clipPath id="c13"><rect x="460" y="16" width="30" height="44" rx="4"/></clipPath>
+<clipPath id="c14"><rect x="494" y="16" width="30" height="44" rx="4"/></clipPath>
+<clipPath id="c15"><rect x="528" y="16" width="30" height="44" rx="4"/></clipPath>
+<clipPath id="c16"><rect x="562" y="16" width="30" height="44" rx="4"/></clipPath>
+<clipPath id="c17"><rect x="596" y="16" width="30" height="44" rx="4"/></clipPath>
+<clipPath id="c18"><rect x="630" y="16" width="30" height="44" rx="4"/></clipPath>
+<clipPath id="c19"><rect x="664" y="16" width="30" height="44" rx="4"/></clipPath>
+<clipPath id="c20"><rect x="698" y="16" width="30" height="44" rx="4"/></clipPath>
+<clipPath id="c21"><rect x="732" y="16" width="30" height="44" rx="4"/></clipPath>
+<clipPath id="c22"><rect x="766" y="16" width="30" height="44" rx="4"/></clipPath>
+<clipPath id="c23"><rect x="800" y="16" width="30" height="44" rx="4"/></clipPath>
+</defs>
+<rect class="board-bg" x="0" y="0" width="848" height="76" rx="10"/>
+<rect class="cell-bg" x="18" y="16" width="30" height="44" rx="4"/>
+<g clip-path="url(#c0)">
+<g class="strip" style="animation-delay:0.000s">
+<text class="glyph" x="33.0" y="45.9">U</text>
+<text class="glyph" x="33.0" y="89.9">J</text>
+<text class="glyph" x="33.0" y="133.9">Z</text>
+<text class="glyph" x="33.0" y="177.9">D</text>
+<text class="glyph" x="33.0" y="221.9"> </text>
+<text class="glyph" x="33.0" y="265.9">E</text>
+<text class="glyph" x="33.0" y="309.9">8</text>
+<text class="glyph" x="33.0" y="353.9">G</text>
+<text class="glyph" x="33.0" y="397.9">X</text>
+<text class="glyph" x="33.0" y="441.9">S</text>
+<text class="glyph" x="33.0" y="485.9">D</text>
+<text class="glyph" x="33.0" y="529.9">6</text>
+<text class="glyph" x="33.0" y="573.9">N</text>
+<text class="glyph" x="33.0" y="617.9">C</text>
+<text class="glyph" x="33.0" y="661.9">D</text>
+<text class="glyph" x="33.0" y="705.9">F</text>
+<text class="glyph" x="33.0" y="749.9">1</text>
+<text class="glyph" x="33.0" y="793.9">0</text>
+<text class="glyph" x="33.0" y="837.9">E</text>
+<text class="glyph" x="33.0" y="881.9">B</text>
+</g></g>
+<line class="seam" x1="18" y1="38.0" x2="48" y2="38.0"/>
+<rect class="cell-bg" x="52" y="16" width="30" height="44" rx="4"/>
+<g clip-path="url(#c1)">
+<g class="strip" style="animation-delay:0.035s">
+<text class="glyph" x="67.0" y="45.9">P</text>
+<text class="glyph" x="67.0" y="89.9">F</text>
+<text class="glyph" x="67.0" y="133.9">9</text>
+<text class="glyph" x="67.0" y="177.9">1</text>
+<text class="glyph" x="67.0" y="221.9">D</text>
+<text class="glyph" x="67.0" y="265.9">D</text>
+<text class="glyph" x="67.0" y="309.9">H</text>
+<text class="glyph" x="67.0" y="353.9">O</text>
+<text class="glyph" x="67.0" y="397.9">D</text>
+<text class="glyph" x="67.0" y="441.9">T</text>
+<text class="glyph" x="67.0" y="485.9">Z</text>
+<text class="glyph" x="67.0" y="529.9">D</text>
+<text class="glyph" x="67.0" y="573.9">O</text>
+<text class="glyph" x="67.0" y="617.9">C</text>
+<text class="glyph" x="67.0" y="661.9">E</text>
+<text class="glyph" x="67.0" y="705.9">9</text>
+<text class="glyph" x="67.0" y="749.9">I</text>
+<text class="glyph" x="67.0" y="793.9">S</text>
+<text class="glyph" x="67.0" y="837.9">0</text>
+<text class="glyph" x="67.0" y="881.9">O</text>
+</g></g>
+<line class="seam" x1="52" y1="38.0" x2="82" y2="38.0"/>
+<rect class="cell-bg" x="86" y="16" width="30" height="44" rx="4"/>
+<g clip-path="url(#c2)">
+<g class="strip" style="animation-delay:0.070s">
+<text class="glyph" x="101.0" y="45.9">J</text>
+<text class="glyph" x="101.0" y="89.9">8</text>
+<text class="glyph" x="101.0" y="133.9">H</text>
+<text class="glyph" x="101.0" y="177.9">T</text>
+<text class="glyph" x="101.0" y="221.9">E</text>
+<text class="glyph" x="101.0" y="265.9">9</text>
+<text class="glyph" x="101.0" y="309.9">L</text>
+<text class="glyph" x="101.0" y="353.9">G</text>
+<text class="glyph" x="101.0" y="397.9">M</text>
+<text class="glyph" x="101.0" y="441.9">A</text>
+<text class="glyph" x="101.0" y="485.9">X</text>
+<text class="glyph" x="101.0" y="529.9">G</text>
+<text class="glyph" x="101.0" y="573.9">9</text>
+<text class="glyph" x="101.0" y="617.9">E</text>
+<text class="glyph" x="101.0" y="661.9">L</text>
+<text class="glyph" x="101.0" y="705.9">D</text>
+<text class="glyph" x="101.0" y="749.9">N</text>
+<text class="glyph" x="101.0" y="793.9">5</text>
+<text class="glyph" x="101.0" y="837.9">8</text>
+<text class="glyph" x="101.0" y="881.9">A</text>
+</g></g>
+<line class="seam" x1="86" y1="38.0" x2="116" y2="38.0"/>
+<rect class="cell-bg" x="120" y="16" width="30" height="44" rx="4"/>
+<g clip-path="url(#c3)">
+<g class="strip" style="animation-delay:0.105s">
+<text class="glyph" x="135.0" y="45.9">1</text>
+<text class="glyph" x="135.0" y="89.9">U</text>
+<text class="glyph" x="135.0" y="133.9">3</text>
+<text class="glyph" x="135.0" y="177.9">3</text>
+<text class="glyph" x="135.0" y="221.9">S</text>
+<text class="glyph" x="135.0" y="265.9">X</text>
+<text class="glyph" x="135.0" y="309.9">T</text>
+<text class="glyph" x="135.0" y="353.9">P</text>
+<text class="glyph" x="135.0" y="397.9">L</text>
+<text class="glyph" x="135.0" y="441.9">T</text>
+<text class="glyph" x="135.0" y="485.9">P</text>
+<text class="glyph" x="135.0" y="529.9">F</text>
+<text class="glyph" x="135.0" y="573.9">T</text>
+<text class="glyph" x="135.0" y="617.9">7</text>
+<text class="glyph" x="135.0" y="661.9">A</text>
+<text class="glyph" x="135.0" y="705.9">5</text>
+<text class="glyph" x="135.0" y="749.9">V</text>
+<text class="glyph" x="135.0" y="793.9">2</text>
+<text class="glyph" x="135.0" y="837.9">S</text>
+<text class="glyph" x="135.0" y="881.9">R</text>
+</g></g>
+<line class="seam" x1="120" y1="38.0" x2="150" y2="38.0"/>
+<rect class="cell-bg" x="154" y="16" width="30" height="44" rx="4"/>
+<g clip-path="url(#c4)">
+<g class="strip" style="animation-delay:0.140s">
+<text class="glyph" x="169.0" y="45.9">E</text>
+<text class="glyph" x="169.0" y="89.9">H</text>
+<text class="glyph" x="169.0" y="133.9">6</text>
+<text class="glyph" x="169.0" y="177.9">0</text>
+<text class="glyph" x="169.0" y="221.9">T</text>
+<text class="glyph" x="169.0" y="265.9">K</text>
+<text class="glyph" x="169.0" y="309.9">V</text>
+<text class="glyph" x="169.0" y="353.9">J</text>
+<text class="glyph" x="169.0" y="397.9">5</text>
+<text class="glyph" x="169.0" y="441.9">U</text>
+<text class="glyph" x="169.0" y="485.9">0</text>
+<text class="glyph" x="169.0" y="529.9">C</text>
+<text class="glyph" x="169.0" y="573.9">E</text>
+<text class="glyph" x="169.0" y="617.9">9</text>
+<text class="glyph" x="169.0" y="661.9">Y</text>
+<text class="glyph" x="169.0" y="705.9">U</text>
+<text class="glyph" x="169.0" y="749.9">V</text>
+<text class="glyph" x="169.0" y="793.9">W</text>
+<text class="glyph" x="169.0" y="837.9">5</text>
+<text class="glyph" x="169.0" y="881.9">D</text>
+</g></g>
+<line class="seam" x1="154" y1="38.0" x2="184" y2="38.0"/>
+<rect class="cell-bg" x="188" y="16" width="30" height="44" rx="4"/>
+<g clip-path="url(#c5)">
+<g class="strip" style="animation-delay:0.175s">
+<text class="glyph" x="203.0" y="45.9">3</text>
+<text class="glyph" x="203.0" y="89.9">E</text>
+<text class="glyph" x="203.0" y="133.9">F</text>
+<text class="glyph" x="203.0" y="177.9">R</text>
+<text class="glyph" x="203.0" y="221.9">I</text>
+<text class="glyph" x="203.0" y="265.9">4</text>
+<text class="glyph" x="203.0" y="309.9">E</text>
+<text class="glyph" x="203.0" y="353.9">D</text>
+<text class="glyph" x="203.0" y="397.9">T</text>
+<text class="glyph" x="203.0" y="441.9">S</text>
+<text class="glyph" x="203.0" y="485.9">2</text>
+<text class="glyph" x="203.0" y="529.9">S</text>
+<text class="glyph" x="203.0" y="573.9">Y</text>
+<text class="glyph" x="203.0" y="617.9">W</text>
+<text class="glyph" x="203.0" y="661.9"> </text>
+<text class="glyph" x="203.0" y="705.9">B</text>
+<text class="glyph" x="203.0" y="749.9">3</text>
+<text class="glyph" x="203.0" y="793.9">W</text>
+<text class="glyph" x="203.0" y="837.9">K</text>
+<text class="glyph" x="203.0" y="881.9">I</text>
+</g></g>
+<line class="seam" x1="188" y1="38.0" x2="218" y2="38.0"/>
+<rect class="cell-bg" x="222" y="16" width="30" height="44" rx="4"/>
+<g clip-path="url(#c6)">
+<g class="strip" style="animation-delay:0.210s">
+<text class="glyph" x="237.0" y="45.9">H</text>
+<text class="glyph" x="237.0" y="89.9">5</text>
+<text class="glyph" x="237.0" y="133.9">D</text>
+<text class="glyph" x="237.0" y="177.9">N</text>
+<text class="glyph" x="237.0" y="221.9">N</text>
+<text class="glyph" x="237.0" y="265.9">S</text>
+<text class="glyph" x="237.0" y="309.9">I</text>
+<text class="glyph" x="237.0" y="353.9">P</text>
+<text class="glyph" x="237.0" y="397.9">Z</text>
+<text class="glyph" x="237.0" y="441.9"> </text>
+<text class="glyph" x="237.0" y="485.9">Z</text>
+<text class="glyph" x="237.0" y="529.9">5</text>
+<text class="glyph" x="237.0" y="573.9">F</text>
+<text class="glyph" x="237.0" y="617.9">K</text>
+<text class="glyph" x="237.0" y="661.9">O</text>
+<text class="glyph" x="237.0" y="705.9">2</text>
+<text class="glyph" x="237.0" y="749.9">Z</text>
+<text class="glyph" x="237.0" y="793.9">9</text>
+<text class="glyph" x="237.0" y="837.9">R</text>
+<text class="glyph" x="237.0" y="881.9">N</text>
+</g></g>
+<line class="seam" x1="222" y1="38.0" x2="252" y2="38.0"/>
+<rect class="cell-bg" x="256" y="16" width="30" height="44" rx="4"/>
+<g clip-path="url(#c7)">
+<g class="strip" style="animation-delay:0.245s">
+<text class="glyph" x="271.0" y="45.9">I</text>
+<text class="glyph" x="271.0" y="89.9">1</text>
+<text class="glyph" x="271.0" y="133.9">9</text>
+<text class="glyph" x="271.0" y="177.9">R</text>
+<text class="glyph" x="271.0" y="221.9">A</text>
+<text class="glyph" x="271.0" y="265.9">0</text>
+<text class="glyph" x="271.0" y="309.9">W</text>
+<text class="glyph" x="271.0" y="353.9">Y</text>
+<text class="glyph" x="271.0" y="397.9">O</text>
+<text class="glyph" x="271.0" y="441.9">B</text>
+<text class="glyph" x="271.0" y="485.9">J</text>
+<text class="glyph" x="271.0" y="529.9">F</text>
+<text class="glyph" x="271.0" y="573.9">L</text>
+<text class="glyph" x="271.0" y="617.9">J</text>
+<text class="glyph" x="271.0" y="661.9">N</text>
+<text class="glyph" x="271.0" y="705.9">O</text>
+<text class="glyph" x="271.0" y="749.9">O</text>
+<text class="glyph" x="271.0" y="793.9">A</text>
+<text class="glyph" x="271.0" y="837.9">5</text>
+<text class="glyph" x="271.0" y="881.9">G</text>
+</g></g>
+<line class="seam" x1="256" y1="38.0" x2="286" y2="38.0"/>
+<rect class="cell-bg" x="290" y="16" width="30" height="44" rx="4"/>
+<g clip-path="url(#c8)">
+<g class="strip" style="animation-delay:0.280s">
+<text class="glyph" x="305.0" y="45.9">L</text>
+<text class="glyph" x="305.0" y="89.9">Q</text>
+<text class="glyph" x="305.0" y="133.9">S</text>
+<text class="glyph" x="305.0" y="177.9">A</text>
+<text class="glyph" x="305.0" y="221.9">T</text>
+<text class="glyph" x="305.0" y="265.9">J</text>
+<text class="glyph" x="305.0" y="309.9">0</text>
+<text class="glyph" x="305.0" y="353.9">8</text>
+<text class="glyph" x="305.0" y="397.9">X</text>
+<text class="glyph" x="305.0" y="441.9">U</text>
+<text class="glyph" x="305.0" y="485.9">U</text>
+<text class="glyph" x="305.0" y="529.9">I</text>
+<text class="glyph" x="305.0" y="573.9">6</text>
+<text class="glyph" x="305.0" y="617.9">D</text>
+<text class="glyph" x="305.0" y="661.9">E</text>
+<text class="glyph" x="305.0" y="705.9">3</text>
+<text class="glyph" x="305.0" y="749.9">9</text>
+<text class="glyph" x="305.0" y="793.9">Z</text>
+<text class="glyph" x="305.0" y="837.9">Z</text>
+<text class="glyph" x="305.0" y="881.9"> </text>
+</g></g>
+<line class="seam" x1="290" y1="38.0" x2="320" y2="38.0"/>
+<rect class="cell-bg" x="324" y="16" width="30" height="44" rx="4"/>
+<g clip-path="url(#c9)">
+<g class="strip" style="animation-delay:0.315s">
+<text class="glyph" x="339.0" y="45.9">Z</text>
+<text class="glyph" x="339.0" y="89.9">Z</text>
+<text class="glyph" x="339.0" y="133.9">G</text>
+<text class="glyph" x="339.0" y="177.9">4</text>
+<text class="glyph" x="339.0" y="221.9">I</text>
+<text class="glyph" x="339.0" y="265.9">Z</text>
+<text class="glyph" x="339.0" y="309.9">D</text>
+<text class="glyph" x="339.0" y="353.9">M</text>
+<text class="glyph" x="339.0" y="397.9">E</text>
+<text class="glyph" x="339.0" y="441.9">I</text>
+<text class="glyph" x="339.0" y="485.9">N</text>
+<text class="glyph" x="339.0" y="529.9">2</text>
+<text class="glyph" x="339.0" y="573.9">K</text>
+<text class="glyph" x="339.0" y="617.9">H</text>
+<text class="glyph" x="339.0" y="661.9"> </text>
+<text class="glyph" x="339.0" y="705.9">V</text>
+<text class="glyph" x="339.0" y="749.9">D</text>
+<text class="glyph" x="339.0" y="793.9">G</text>
+<text class="glyph" x="339.0" y="837.9">A</text>
+<text class="glyph" x="339.0" y="881.9">N</text>
+</g></g>
+<line class="seam" x1="324" y1="38.0" x2="354" y2="38.0"/>
+<rect class="cell-bg" x="358" y="16" width="30" height="44" rx="4"/>
+<g clip-path="url(#c10)">
+<g class="strip" style="animation-delay:0.350s">
+<text class="glyph" x="373.0" y="45.9">J</text>
+<text class="glyph" x="373.0" y="89.9">8</text>
+<text class="glyph" x="373.0" y="133.9">G</text>
+<text class="glyph" x="373.0" y="177.9">X</text>
+<text class="glyph" x="373.0" y="221.9">O</text>
+<text class="glyph" x="373.0" y="265.9">B</text>
+<text class="glyph" x="373.0" y="309.9">E</text>
+<text class="glyph" x="373.0" y="353.9">N</text>
+<text class="glyph" x="373.0" y="397.9">Y</text>
+<text class="glyph" x="373.0" y="441.9">L</text>
+<text class="glyph" x="373.0" y="485.9">J</text>
+<text class="glyph" x="373.0" y="529.9">Q</text>
+<text class="glyph" x="373.0" y="573.9">W</text>
+<text class="glyph" x="373.0" y="617.9">X</text>
+<text class="glyph" x="373.0" y="661.9">M</text>
+<text class="glyph" x="373.0" y="705.9">4</text>
+<text class="glyph" x="373.0" y="749.9">H</text>
+<text class="glyph" x="373.0" y="793.9">H</text>
+<text class="glyph" x="373.0" y="837.9">5</text>
+<text class="glyph" x="373.0" y="881.9">O</text>
+</g></g>
+<line class="seam" x1="358" y1="38.0" x2="388" y2="38.0"/>
+<rect class="cell-bg" x="392" y="16" width="30" height="44" rx="4"/>
+<g clip-path="url(#c11)">
+<g class="strip" style="animation-delay:0.385s">
+<text class="glyph" x="407.0" y="45.9">3</text>
+<text class="glyph" x="407.0" y="89.9">4</text>
+<text class="glyph" x="407.0" y="133.9">4</text>
+<text class="glyph" x="407.0" y="177.9">T</text>
+<text class="glyph" x="407.0" y="221.9">N</text>
+<text class="glyph" x="407.0" y="265.9">F</text>
+<text class="glyph" x="407.0" y="309.9">J</text>
+<text class="glyph" x="407.0" y="353.9">G</text>
+<text class="glyph" x="407.0" y="397.9">V</text>
+<text class="glyph" x="407.0" y="441.9">D</text>
+<text class="glyph" x="407.0" y="485.9">Q</text>
+<text class="glyph" x="407.0" y="529.9">4</text>
+<text class="glyph" x="407.0" y="573.9">K</text>
+<text class="glyph" x="407.0" y="617.9">7</text>
+<text class="glyph" x="407.0" y="661.9">O</text>
+<text class="glyph" x="407.0" y="705.9">B</text>
+<text class="glyph" x="407.0" y="749.9">N</text>
+<text class="glyph" x="407.0" y="793.9">7</text>
+<text class="glyph" x="407.0" y="837.9">X</text>
+<text class="glyph" x="407.0" y="881.9">W</text>
+</g></g>
+<line class="seam" x1="392" y1="38.0" x2="422" y2="38.0"/>
+<rect class="cell-bg" x="426" y="16" width="30" height="44" rx="4"/>
+<g clip-path="url(#c12)">
+<g class="strip" style="animation-delay:0.420s">
+<text class="glyph" x="441.0" y="45.9">J</text>
+<text class="glyph" x="441.0" y="89.9">8</text>
+<text class="glyph" x="441.0" y="133.9">B</text>
+<text class="glyph" x="441.0" y="177.9">7</text>
+<text class="glyph" x="441.0" y="221.9"> </text>
+<text class="glyph" x="441.0" y="265.9">T</text>
+<text class="glyph" x="441.0" y="309.9">F</text>
+<text class="glyph" x="441.0" y="353.9">Q</text>
+<text class="glyph" x="441.0" y="397.9">7</text>
+<text class="glyph" x="441.0" y="441.9">I</text>
+<text class="glyph" x="441.0" y="485.9">X</text>
+<text class="glyph" x="441.0" y="529.9">K</text>
+<text class="glyph" x="441.0" y="573.9">W</text>
+<text class="glyph" x="441.0" y="617.9">O</text>
+<text class="glyph" x="441.0" y="661.9">R</text>
+<text class="glyph" x="441.0" y="705.9">8</text>
+<text class="glyph" x="441.0" y="749.9">8</text>
+<text class="glyph" x="441.0" y="793.9">6</text>
+<text class="glyph" x="441.0" y="837.9">V</text>
+<text class="glyph" x="441.0" y="881.9"> </text>
+</g></g>
+<line class="seam" x1="426" y1="38.0" x2="456" y2="38.0"/>
+<rect class="cell-bg" x="460" y="16" width="30" height="44" rx="4"/>
+<g clip-path="url(#c13)">
+<g class="strip" style="animation-delay:0.455s">
+<text class="glyph" x="475.0" y="45.9">O</text>
+<text class="glyph" x="475.0" y="89.9">M</text>
+<text class="glyph" x="475.0" y="133.9">P</text>
+<text class="glyph" x="475.0" y="177.9">Z</text>
+<text class="glyph" x="475.0" y="221.9">P</text>
+<text class="glyph" x="475.0" y="265.9">O</text>
+<text class="glyph" x="475.0" y="309.9">M</text>
+<text class="glyph" x="475.0" y="353.9">7</text>
+<text class="glyph" x="475.0" y="397.9">5</text>
+<text class="glyph" x="475.0" y="441.9">N</text>
+<text class="glyph" x="475.0" y="485.9">W</text>
+<text class="glyph" x="475.0" y="529.9">B</text>
+<text class="glyph" x="475.0" y="573.9">B</text>
+<text class="glyph" x="475.0" y="617.9">R</text>
+<text class="glyph" x="475.0" y="661.9">E</text>
+<text class="glyph" x="475.0" y="705.9">4</text>
+<text class="glyph" x="475.0" y="749.9">Q</text>
+<text class="glyph" x="475.0" y="793.9">M</text>
+<text class="glyph" x="475.0" y="837.9">W</text>
+<text class="glyph" x="475.0" y="881.9">A</text>
+</g></g>
+<line class="seam" x1="460" y1="38.0" x2="490" y2="38.0"/>
+<rect class="cell-bg" x="494" y="16" width="30" height="44" rx="4"/>
+<g clip-path="url(#c14)">
+<g class="strip" style="animation-delay:0.490s">
+<text class="glyph" x="509.0" y="45.9">2</text>
+<text class="glyph" x="509.0" y="89.9">W</text>
+<text class="glyph" x="509.0" y="133.9">X</text>
+<text class="glyph" x="509.0" y="177.9">F</text>
+<text class="glyph" x="509.0" y="221.9">R</text>
+<text class="glyph" x="509.0" y="265.9">O</text>
+<text class="glyph" x="509.0" y="309.9">G</text>
+<text class="glyph" x="509.0" y="353.9">O</text>
+<text class="glyph" x="509.0" y="397.9">4</text>
+<text class="glyph" x="509.0" y="441.9">G</text>
+<text class="glyph" x="509.0" y="485.9">M</text>
+<text class="glyph" x="509.0" y="529.9">V</text>
+<text class="glyph" x="509.0" y="573.9">N</text>
+<text class="glyph" x="509.0" y="617.9">4</text>
+<text class="glyph" x="509.0" y="661.9"> </text>
+<text class="glyph" x="509.0" y="705.9">A</text>
+<text class="glyph" x="509.0" y="749.9">4</text>
+<text class="glyph" x="509.0" y="793.9">W</text>
+<text class="glyph" x="509.0" y="837.9">F</text>
+<text class="glyph" x="509.0" y="881.9">T</text>
+</g></g>
+<line class="seam" x1="494" y1="38.0" x2="524" y2="38.0"/>
+<rect class="cell-bg" x="528" y="16" width="30" height="44" rx="4"/>
+<g clip-path="url(#c15)">
+<g class="strip" style="animation-delay:0.525s">
+<text class="glyph" x="543.0" y="45.9">H</text>
+<text class="glyph" x="543.0" y="89.9">Y</text>
+<text class="glyph" x="543.0" y="133.9">M</text>
+<text class="glyph" x="543.0" y="177.9">4</text>
+<text class="glyph" x="543.0" y="221.9">O</text>
+<text class="glyph" x="543.0" y="265.9">L</text>
+<text class="glyph" x="543.0" y="309.9">1</text>
+<text class="glyph" x="543.0" y="353.9">V</text>
+<text class="glyph" x="543.0" y="397.9">F</text>
+<text class="glyph" x="543.0" y="441.9"> </text>
+<text class="glyph" x="543.0" y="485.9">Z</text>
+<text class="glyph" x="543.0" y="529.9">3</text>
+<text class="glyph" x="543.0" y="573.9">Z</text>
+<text class="glyph" x="543.0" y="617.9">F</text>
+<text class="glyph" x="543.0" y="661.9">R</text>
+<text class="glyph" x="543.0" y="705.9">K</text>
+<text class="glyph" x="543.0" y="749.9">K</text>
+<text class="glyph" x="543.0" y="793.9">I</text>
+<text class="glyph" x="543.0" y="837.9">B</text>
+<text class="glyph" x="543.0" y="881.9"> </text>
+</g></g>
+<line class="seam" x1="528" y1="38.0" x2="558" y2="38.0"/>
+<rect class="cell-bg" x="562" y="16" width="30" height="44" rx="4"/>
+<g clip-path="url(#c16)">
+<g class="strip" style="animation-delay:0.560s">
+<text class="glyph" x="577.0" y="45.9">J</text>
+<text class="glyph" x="577.0" y="89.9">3</text>
+<text class="glyph" x="577.0" y="133.9">J</text>
+<text class="glyph" x="577.0" y="177.9">4</text>
+<text class="glyph" x="577.0" y="221.9">D</text>
+<text class="glyph" x="577.0" y="265.9">W</text>
+<text class="glyph" x="577.0" y="309.9">J</text>
+<text class="glyph" x="577.0" y="353.9">9</text>
+<text class="glyph" x="577.0" y="397.9">9</text>
+<text class="glyph" x="577.0" y="441.9">B</text>
+<text class="glyph" x="577.0" y="485.9">I</text>
+<text class="glyph" x="577.0" y="529.9">B</text>
+<text class="glyph" x="577.0" y="573.9">A</text>
+<text class="glyph" x="577.0" y="617.9">G</text>
+<text class="glyph" x="577.0" y="661.9">E</text>
+<text class="glyph" x="577.0" y="705.9">7</text>
+<text class="glyph" x="577.0" y="749.9">I</text>
+<text class="glyph" x="577.0" y="793.9">1</text>
+<text class="glyph" x="577.0" y="837.9">M</text>
+<text class="glyph" x="577.0" y="881.9">G</text>
+</g></g>
+<line class="seam" x1="562" y1="38.0" x2="592" y2="38.0"/>
+<rect class="cell-bg" x="596" y="16" width="30" height="44" rx="4"/>
+<g clip-path="url(#c17)">
+<g class="strip" style="animation-delay:0.595s">
+<text class="glyph" x="611.0" y="45.9">N</text>
+<text class="glyph" x="611.0" y="89.9">B</text>
+<text class="glyph" x="611.0" y="133.9">Q</text>
+<text class="glyph" x="611.0" y="177.9">N</text>
+<text class="glyph" x="611.0" y="221.9">U</text>
+<text class="glyph" x="611.0" y="265.9">S</text>
+<text class="glyph" x="611.0" y="309.9">6</text>
+<text class="glyph" x="611.0" y="353.9">P</text>
+<text class="glyph" x="611.0" y="397.9">U</text>
+<text class="glyph" x="611.0" y="441.9">A</text>
+<text class="glyph" x="611.0" y="485.9">Q</text>
+<text class="glyph" x="611.0" y="529.9">8</text>
+<text class="glyph" x="611.0" y="573.9">0</text>
+<text class="glyph" x="611.0" y="617.9">I</text>
+<text class="glyph" x="611.0" y="661.9">F</text>
+<text class="glyph" x="611.0" y="705.9">D</text>
+<text class="glyph" x="611.0" y="749.9">W</text>
+<text class="glyph" x="611.0" y="793.9">3</text>
+<text class="glyph" x="611.0" y="837.9">7</text>
+<text class="glyph" x="611.0" y="881.9">A</text>
+</g></g>
+<line class="seam" x1="596" y1="38.0" x2="626" y2="38.0"/>
+<rect class="cell-bg" x="630" y="16" width="30" height="44" rx="4"/>
+<g clip-path="url(#c18)">
+<g class="strip" style="animation-delay:0.630s">
+<text class="glyph" x="645.0" y="45.9">0</text>
+<text class="glyph" x="645.0" y="89.9">6</text>
+<text class="glyph" x="645.0" y="133.9">I</text>
+<text class="glyph" x="645.0" y="177.9">8</text>
+<text class="glyph" x="645.0" y="221.9">C</text>
+<text class="glyph" x="645.0" y="265.9">J</text>
+<text class="glyph" x="645.0" y="309.9">7</text>
+<text class="glyph" x="645.0" y="353.9">6</text>
+<text class="glyph" x="645.0" y="397.9">B</text>
+<text class="glyph" x="645.0" y="441.9">C</text>
+<text class="glyph" x="645.0" y="485.9">2</text>
+<text class="glyph" x="645.0" y="529.9">L</text>
+<text class="glyph" x="645.0" y="573.9">A</text>
+<text class="glyph" x="645.0" y="617.9">J</text>
+<text class="glyph" x="645.0" y="661.9">A</text>
+<text class="glyph" x="645.0" y="705.9">L</text>
+<text class="glyph" x="645.0" y="749.9">J</text>
+<text class="glyph" x="645.0" y="793.9">4</text>
+<text class="glyph" x="645.0" y="837.9">H</text>
+<text class="glyph" x="645.0" y="881.9">T</text>
+</g></g>
+<line class="seam" x1="630" y1="38.0" x2="660" y2="38.0"/>
+<rect class="cell-bg" x="664" y="16" width="30" height="44" rx="4"/>
+<g clip-path="url(#c19)">
+<g class="strip" style="animation-delay:0.665s">
+<text class="glyph" x="679.0" y="45.9">9</text>
+<text class="glyph" x="679.0" y="89.9">D</text>
+<text class="glyph" x="679.0" y="133.9">U</text>
+<text class="glyph" x="679.0" y="177.9">7</text>
+<text class="glyph" x="679.0" y="221.9">T</text>
+<text class="glyph" x="679.0" y="265.9">7</text>
+<text class="glyph" x="679.0" y="309.9">9</text>
+<text class="glyph" x="679.0" y="353.9">4</text>
+<text class="glyph" x="679.0" y="397.9">G</text>
+<text class="glyph" x="679.0" y="441.9">K</text>
+<text class="glyph" x="679.0" y="485.9">9</text>
+<text class="glyph" x="679.0" y="529.9">D</text>
+<text class="glyph" x="679.0" y="573.9">P</text>
+<text class="glyph" x="679.0" y="617.9">M</text>
+<text class="glyph" x="679.0" y="661.9">C</text>
+<text class="glyph" x="679.0" y="705.9">R</text>
+<text class="glyph" x="679.0" y="749.9">C</text>
+<text class="glyph" x="679.0" y="793.9">G</text>
+<text class="glyph" x="679.0" y="837.9">6</text>
+<text class="glyph" x="679.0" y="881.9">E</text>
+</g></g>
+<line class="seam" x1="664" y1="38.0" x2="694" y2="38.0"/>
+<rect class="cell-bg" x="698" y="16" width="30" height="44" rx="4"/>
+<g clip-path="url(#c20)">
+<g class="strip" style="animation-delay:0.700s">
+<text class="glyph" x="713.0" y="45.9">2</text>
+<text class="glyph" x="713.0" y="89.9">9</text>
+<text class="glyph" x="713.0" y="133.9">B</text>
+<text class="glyph" x="713.0" y="177.9">E</text>
+<text class="glyph" x="713.0" y="221.9">I</text>
+<text class="glyph" x="713.0" y="265.9">2</text>
+<text class="glyph" x="713.0" y="309.9">U</text>
+<text class="glyph" x="713.0" y="353.9">6</text>
+<text class="glyph" x="713.0" y="397.9">6</text>
+<text class="glyph" x="713.0" y="441.9">E</text>
+<text class="glyph" x="713.0" y="485.9">M</text>
+<text class="glyph" x="713.0" y="529.9">R</text>
+<text class="glyph" x="713.0" y="573.9">2</text>
+<text class="glyph" x="713.0" y="617.9">6</text>
+<text class="glyph" x="713.0" y="661.9">T</text>
+<text class="glyph" x="713.0" y="705.9">8</text>
+<text class="glyph" x="713.0" y="749.9">4</text>
+<text class="glyph" x="713.0" y="793.9">6</text>
+<text class="glyph" x="713.0" y="837.9">P</text>
+<text class="glyph" x="713.0" y="881.9"> </text>
+</g></g>
+<line class="seam" x1="698" y1="38.0" x2="728" y2="38.0"/>
+<rect class="cell-bg" x="732" y="16" width="30" height="44" rx="4"/>
+<g clip-path="url(#c21)">
+<g class="strip" style="animation-delay:0.735s">
+<text class="glyph" x="747.0" y="45.9">7</text>
+<text class="glyph" x="747.0" y="89.9">Q</text>
+<text class="glyph" x="747.0" y="133.9">9</text>
+<text class="glyph" x="747.0" y="177.9">M</text>
+<text class="glyph" x="747.0" y="221.9">O</text>
+<text class="glyph" x="747.0" y="265.9">2</text>
+<text class="glyph" x="747.0" y="309.9">I</text>
+<text class="glyph" x="747.0" y="353.9">0</text>
+<text class="glyph" x="747.0" y="397.9">H</text>
+<text class="glyph" x="747.0" y="441.9">N</text>
+<text class="glyph" x="747.0" y="485.9">Z</text>
+<text class="glyph" x="747.0" y="529.9">2</text>
+<text class="glyph" x="747.0" y="573.9">U</text>
+<text class="glyph" x="747.0" y="617.9">E</text>
+<text class="glyph" x="747.0" y="661.9">O</text>
+<text class="glyph" x="747.0" y="705.9">P</text>
+<text class="glyph" x="747.0" y="749.9">1</text>
+<text class="glyph" x="747.0" y="793.9">E</text>
+<text class="glyph" x="747.0" y="837.9">N</text>
+<text class="glyph" x="747.0" y="881.9">2</text>
+</g></g>
+<line class="seam" x1="732" y1="38.0" x2="762" y2="38.0"/>
+<rect class="cell-bg" x="766" y="16" width="30" height="44" rx="4"/>
+<g clip-path="url(#c22)">
+<g class="strip" style="animation-delay:0.770s">
+<text class="glyph" x="781.0" y="45.9">T</text>
+<text class="glyph" x="781.0" y="89.9">H</text>
+<text class="glyph" x="781.0" y="133.9">J</text>
+<text class="glyph" x="781.0" y="177.9">X</text>
+<text class="glyph" x="781.0" y="221.9">N</text>
+<text class="glyph" x="781.0" y="265.9">J</text>
+<text class="glyph" x="781.0" y="309.9">Q</text>
+<text class="glyph" x="781.0" y="353.9">I</text>
+<text class="glyph" x="781.0" y="397.9">3</text>
+<text class="glyph" x="781.0" y="441.9">D</text>
+<text class="glyph" x="781.0" y="485.9">O</text>
+<text class="glyph" x="781.0" y="529.9">G</text>
+<text class="glyph" x="781.0" y="573.9">Z</text>
+<text class="glyph" x="781.0" y="617.9">5</text>
+<text class="glyph" x="781.0" y="661.9">R</text>
+<text class="glyph" x="781.0" y="705.9">K</text>
+<text class="glyph" x="781.0" y="749.9">O</text>
+<text class="glyph" x="781.0" y="793.9">K</text>
+<text class="glyph" x="781.0" y="837.9">1</text>
+<text class="glyph" x="781.0" y="881.9">6</text>
+</g></g>
+<line class="seam" x1="766" y1="38.0" x2="796" y2="38.0"/>
+<rect class="cell-bg" x="800" y="16" width="30" height="44" rx="4"/>
+<g clip-path="url(#c23)">
+<g class="strip" style="animation-delay:0.805s">
+<text class="glyph" x="815.0" y="45.9">6</text>
+<text class="glyph" x="815.0" y="89.9">Z</text>
+<text class="glyph" x="815.0" y="133.9">V</text>
+<text class="glyph" x="815.0" y="177.9">0</text>
+<text class="glyph" x="815.0" y="221.9"> </text>
+<text class="glyph" x="815.0" y="265.9">M</text>
+<text class="glyph" x="815.0" y="309.9">W</text>
+<text class="glyph" x="815.0" y="353.9">U</text>
+<text class="glyph" x="815.0" y="397.9">F</text>
+<text class="glyph" x="815.0" y="441.9"> </text>
+<text class="glyph" x="815.0" y="485.9">X</text>
+<text class="glyph" x="815.0" y="529.9">B</text>
+<text class="glyph" x="815.0" y="573.9">V</text>
+<text class="glyph" x="815.0" y="617.9">9</text>
+<text class="glyph" x="815.0" y="661.9"> </text>
+<text class="glyph" x="815.0" y="705.9">3</text>
+<text class="glyph" x="815.0" y="749.9">2</text>
+<text class="glyph" x="815.0" y="793.9">B</text>
+<text class="glyph" x="815.0" y="837.9">Y</text>
+<text class="glyph" x="815.0" y="881.9"> </text>
+</g></g>
+<line class="seam" x1="800" y1="38.0" x2="830" y2="38.0"/>
+</svg>
