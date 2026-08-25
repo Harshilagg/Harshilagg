@@ -3,10 +3,13 @@ import random
 random.seed(7)
 
 MESSAGES = [
-    "DESTINATION PRODUCTION",
+    "HELLO WORLD",
+    "FROM 0 TO 1",
+    "THINKING IN BINARY",
+    "COMPILING......",
     "STATUS BUILDING BACKEND",
     "DELAY ONE MORE REFACTOR",
-    "BOARDING NOW AT GATE 26",
+    "BOARDING NOW AT CLOUD",
 ]
 
 CELLS = 24
