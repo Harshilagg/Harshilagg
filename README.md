@@ -1,7 +1,6 @@
 <div align="center">
 <b>Harshil Aggarwal</b>
 <br>
-<sub>Cybersecurity Engineer @ Inspira Enterprise &nbsp;·&nbsp; IIT Kharagpur '26</sub>
 </div>
 <br>
 
