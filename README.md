@@ -6,31 +6,11 @@ Ex-competitive programmer, so I still think in constraints.
 Most of my good commits are deletions.
 <div align="center"> <img src="assests/solari.svg" width="100%" alt="Split-flap status board"> </div> <br>
 
-<p>
-  <b>Languages</b>&nbsp;&nbsp;
-  <a href="https://skillicons.dev">
-    <img height="40" src="https://skillicons.dev/icons?i=ts,py,cpp,java,js&theme=dark">
-  </a>
-</p>
 <table>
-<tr><td><b>Languages</b></td><td><img height="36" src="https://skillicons.dev/icons?i=ts,py,cpp,java,js&theme=dark"></td></tr>
-<tr><td><b>Backend</b></td><td><img height="36" src="https://skillicons.dev/icons?i=nodejs,express,fastapi,prisma&theme=dark"></td></tr>
+<tr><td><b>Languages</b></td><td><img height="36" src="https://skillicons.dev/icons?i=ts,py,cpp,java,js,bash,go&theme=dark"></td></tr>
+<tr><td><b>Backend</b></td><td><img height="36" src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring,prisma,redis,kafka,postgres,mongodb&theme=dark"></td></tr>
+<tr><td><b>Backend</b></td><td><img height="36" src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,vite,html,css&theme=dark"></td></tr>
 </table>
-**Languages**
-
-[![Languages](https://skillicons.dev/icons?i=java,py,ts,js,cpp,go,bash&theme=dark)](https://skillicons.dev)
-
-**Frontend**
-
-[![Frontend](https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,vite,html,css&theme=dark)](https://skillicons.dev)
-
-**Backend**
-
-[![Backend](https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,fastapi,graphql&theme=dark)](https://skillicons.dev)
-
-**Databases & Messaging**
-
-[![Data](https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,kafka,prisma&theme=dark)](https://skillicons.dev)
 
 **DevOps & Cloud**
 
