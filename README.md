@@ -7,6 +7,23 @@ Most drawn to backend work where the difficulty is in the design rather than the
 
 </td> <td width="42%" valign="top"> <table> <tr><td><b>Backend</b></td><td><code>Node</code> <code>Express</code> <code>FastAPI</code> <code>Prisma</code></td></tr> <tr><td><b>Languages</b></td><td><code>TypeScript</code> <code>Python</code> <code>C++</code> <code>Java</code></td></tr> <tr><td><b>Data</b></td><td><code>PostgreSQL</code> <code>SQLite</code> <code>Firestore</code></td></tr> <tr><td><b>AI</b></td><td><code>Groq</code> <code>LLaMA</code> <code>PaddleOCR</code> <code>RAG</code></td></tr> <tr><td><b>Frontend</b></td><td><code>React</code> <code>Vite</code> <code>Tailwind</code> <code>Flutter</code></td></tr> <tr><td><b>Infra</b></td><td><code>AWS S3</code> <code>Docker</code> <code>Render</code></td></tr> </table> </td> </tr> </table> <sub> <a 
 
+### ⚡ Frontend
+
+![JavaScript](https://shields.io)
+![TypeScript](https://shields.io)
+![React](https://shields.io)
+![Vue.js](https://shields.io)
+![Next.js](https://shields.io)
+![Nuxt](https://shields.io)
+![Angular](https://shields.io)
+![Svelte](https://shields.io)
+![Vite](https://shields.io)
+![Tailwind](https://shields.io)
+![Sass](https://shields.io)
+![Electron](https://shields.io)
+![React Native](https://shields.io)
+![Flutter](https://shields.io)
+
 <br><br>
 
 <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Harshilagg/Harshilagg/output/pacman-contribution-graph-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Harshilagg/Harshilagg/output/pacman-contribution-graph.svg"> <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Harshilagg/Harshilagg/output/pacman-contribution-graph.svg"> </picture>
