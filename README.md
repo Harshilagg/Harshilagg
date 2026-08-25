@@ -8,6 +8,10 @@ Most of my good commits are deletions.
 <a href="https://skillicons.dev">
   <img height="40" src="https://skillicons.dev/icons?i=ts,py,cpp,java,js&theme=dark">
 </a>
+<table>
+<tr><td><b>Languages</b></td><td><img height="36" src="https://skillicons.dev/icons?i=ts,py,cpp,java,js&theme=dark"></td></tr>
+<tr><td><b>Backend</b></td><td><img height="36" src="https://skillicons.dev/icons?i=nodejs,express,fastapi,prisma&theme=dark"></td></tr>
+</table>
 **Languages**
 
 [![Languages](https://skillicons.dev/icons?i=java,py,ts,js,cpp,go,bash&theme=dark)](https://skillicons.dev)
