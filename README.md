@@ -1,16 +1,9 @@
-<div align="center">
-<b>Harshil Aggarwal</b>
-<br>
-<sub>Cybersecurity Engineer @ Inspira Enterprise &nbsp;·&nbsp; IIT Kharagpur '26</sub>
-</div>
-<br>
-
 <div align="center"> <img src="assests/solari.svg" width="100%" alt="Split-flap status board"> </div> <br>
 <div align="center"> <img src="assests/pacman.svg" width="100%" alt="Pac-Man eating buzzwords"> </div>
 
 <div align="center"> <img src="assests/terminal.svg" width="100%" alt="Terminal: about me"> </div>
 
-<div align="center">
+<div align="left">
 
 <sub><code>LANGUAGES</code></sub> &nbsp; <img height="30" align="middle" src="https://skillicons.dev/icons?i=ts,py,cpp,java,js,bash,go&theme=dark">
 <br><br>
@@ -22,7 +15,6 @@
 <br><br>
 
 <sub><code>DEVOPS</code></sub> &nbsp; <img height="30" align="middle" src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,nginx,linux,vercel&theme=dark">
-
 </div>
 
 
