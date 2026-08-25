@@ -12,24 +12,16 @@
 
 <div align="center">
 
-<sub><code>LANGUAGES</code></sub>
-<br>
-<img height="30" src="https://skillicons.dev/icons?i=ts,py,cpp,java,js,bash,go&theme=dark">
+<sub><code>LANGUAGES</code></sub> &nbsp; <img height="30" align="middle" src="https://skillicons.dev/icons?i=ts,py,cpp,java,js,bash,go&theme=dark">
 <br><br>
 
-<sub><code>BACKEND</code></sub>
-<br>
-<img height="30" src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring,prisma,redis,kafka,postgres,mongodb&theme=dark">
+<sub><code>BACKEND</code></sub> &nbsp; <img height="30" align="middle" src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring,prisma,redis,kafka,postgres,mongodb&theme=dark">
 <br><br>
 
-<sub><code>FRONTEND</code></sub>
-<br>
-<img height="30" src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,vite,html,css&theme=dark">
+<sub><code>FRONTEND</code></sub> &nbsp; <img height="30" align="middle" src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,vite,html,css&theme=dark">
 <br><br>
 
-<sub><code>DEVOPS</code></sub>
-<br>
-<img height="30" src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,nginx,linux,vercel&theme=dark">
+<sub><code>DEVOPS</code></sub> &nbsp; <img height="30" align="middle" src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,nginx,linux,vercel&theme=dark">
 
 </div>
 
