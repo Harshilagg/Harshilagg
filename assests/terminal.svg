@@ -1,0 +1,409 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 932 110" width="932" height="110" role="img" aria-label="Terminal: about me">
+<style>
+  .panel  { fill: #0d1117; }
+  .char   { font-family: ui-monospace, "SF Mono", SFMono-Regular, Menlo, Consolas, monospace;
+             font-size: 20px; fill: #e8edf3;
+             animation-duration: 9.420000000000002s; animation-timing-function: steps(1,end);
+             animation-iteration-count: infinite; }
+  .cursor { fill: #e8edf3;
+             animation: blink 0.9s steps(1,end) infinite,
+                        movecursor 9.420000000000002s steps(1,end) infinite; }
+@keyframes blink { 0%,49% { opacity: 1; } 50%,100% { opacity: 0; } }
+@keyframes movecursor {
+  0.0000% { transform: translate(-999.0px,-999.0px); }
+  5.3079% { transform: translate(24.0px,40.0px); }
+  5.3079% { transform: translate(37.0px,40.0px); }
+  5.7856% { transform: translate(50.0px,40.0px); }
+  6.2633% { transform: translate(63.0px,40.0px); }
+  6.7410% { transform: translate(76.0px,40.0px); }
+  7.2187% { transform: translate(89.0px,40.0px); }
+  7.6964% { transform: translate(102.0px,40.0px); }
+  8.1741% { transform: translate(115.0px,40.0px); }
+  8.6518% { transform: translate(128.0px,40.0px); }
+  9.1295% { transform: translate(141.0px,40.0px); }
+  9.6072% { transform: translate(154.0px,40.0px); }
+  10.0849% { transform: translate(167.0px,40.0px); }
+  10.5626% { transform: translate(180.0px,40.0px); }
+  11.0403% { transform: translate(193.0px,40.0px); }
+  11.5180% { transform: translate(206.0px,40.0px); }
+  11.9958% { transform: translate(219.0px,40.0px); }
+  12.4735% { transform: translate(232.0px,40.0px); }
+  12.9512% { transform: translate(245.0px,40.0px); }
+  13.4289% { transform: translate(258.0px,40.0px); }
+  13.9066% { transform: translate(271.0px,40.0px); }
+  14.3843% { transform: translate(284.0px,40.0px); }
+  14.8620% { transform: translate(297.0px,40.0px); }
+  15.3397% { transform: translate(310.0px,40.0px); }
+  15.8174% { transform: translate(323.0px,40.0px); }
+  16.2951% { transform: translate(336.0px,40.0px); }
+  16.7728% { transform: translate(349.0px,40.0px); }
+  17.2505% { transform: translate(362.0px,40.0px); }
+  17.7282% { transform: translate(375.0px,40.0px); }
+  18.2059% { transform: translate(388.0px,40.0px); }
+  18.6837% { transform: translate(401.0px,40.0px); }
+  19.1614% { transform: translate(414.0px,40.0px); }
+  19.6391% { transform: translate(427.0px,40.0px); }
+  20.1168% { transform: translate(440.0px,40.0px); }
+  20.5945% { transform: translate(453.0px,40.0px); }
+  21.0722% { transform: translate(466.0px,40.0px); }
+  21.5499% { transform: translate(479.0px,40.0px); }
+  22.0276% { transform: translate(492.0px,40.0px); }
+  22.5053% { transform: translate(505.0px,40.0px); }
+  22.9830% { transform: translate(518.0px,40.0px); }
+  23.4607% { transform: translate(531.0px,40.0px); }
+  23.9384% { transform: translate(544.0px,40.0px); }
+  24.4161% { transform: translate(557.0px,40.0px); }
+  24.8938% { transform: translate(570.0px,40.0px); }
+  25.3715% { transform: translate(583.0px,40.0px); }
+  25.8493% { transform: translate(596.0px,40.0px); }
+  26.3270% { transform: translate(609.0px,40.0px); }
+  26.8047% { transform: translate(622.0px,40.0px); }
+  27.2824% { transform: translate(635.0px,40.0px); }
+  27.7601% { transform: translate(648.0px,40.0px); }
+  28.2378% { transform: translate(661.0px,40.0px); }
+  28.7155% { transform: translate(674.0px,40.0px); }
+  29.1932% { transform: translate(687.0px,40.0px); }
+  29.6709% { transform: translate(700.0px,40.0px); }
+  30.1486% { transform: translate(713.0px,40.0px); }
+  30.6263% { transform: translate(726.0px,40.0px); }
+  31.1040% { transform: translate(739.0px,40.0px); }
+  31.5817% { transform: translate(752.0px,40.0px); }
+  32.0594% { transform: translate(765.0px,40.0px); }
+  32.5372% { transform: translate(778.0px,40.0px); }
+  33.0149% { transform: translate(791.0px,40.0px); }
+  33.4926% { transform: translate(804.0px,40.0px); }
+  33.9703% { transform: translate(817.0px,40.0px); }
+  34.4480% { transform: translate(830.0px,40.0px); }
+  34.9257% { transform: translate(843.0px,40.0px); }
+  35.4034% { transform: translate(856.0px,40.0px); }
+  35.8811% { transform: translate(869.0px,40.0px); }
+  36.3588% { transform: translate(882.0px,40.0px); }
+  36.8365% { transform: translate(895.0px,40.0px); }
+  37.3142% { transform: translate(908.0px,40.0px); }
+  43.0998% { transform: translate(24.0px,74.0px); }
+  43.0998% { transform: translate(37.0px,74.0px); }
+  43.5775% { transform: translate(50.0px,74.0px); }
+  44.0552% { transform: translate(63.0px,74.0px); }
+  44.5329% { transform: translate(76.0px,74.0px); }
+  45.0106% { transform: translate(89.0px,74.0px); }
+  45.4883% { transform: translate(102.0px,74.0px); }
+  45.9660% { transform: translate(115.0px,74.0px); }
+  46.4437% { transform: translate(128.0px,74.0px); }
+  46.9214% { transform: translate(141.0px,74.0px); }
+  47.3992% { transform: translate(154.0px,74.0px); }
+  47.8769% { transform: translate(167.0px,74.0px); }
+  48.3546% { transform: translate(180.0px,74.0px); }
+  48.8323% { transform: translate(193.0px,74.0px); }
+  49.3100% { transform: translate(206.0px,74.0px); }
+  49.7877% { transform: translate(219.0px,74.0px); }
+  50.2654% { transform: translate(232.0px,74.0px); }
+  50.7431% { transform: translate(245.0px,74.0px); }
+  51.2208% { transform: translate(258.0px,74.0px); }
+  51.6985% { transform: translate(271.0px,74.0px); }
+  52.1762% { transform: translate(284.0px,74.0px); }
+  52.6539% { transform: translate(297.0px,74.0px); }
+  53.1316% { transform: translate(310.0px,74.0px); }
+  53.6093% { transform: translate(323.0px,74.0px); }
+  54.0870% { transform: translate(336.0px,74.0px); }
+  54.5648% { transform: translate(349.0px,74.0px); }
+  55.0425% { transform: translate(362.0px,74.0px); }
+  55.5202% { transform: translate(375.0px,74.0px); }
+  55.9979% { transform: translate(388.0px,74.0px); }
+  56.4756% { transform: translate(401.0px,74.0px); }
+  56.9533% { transform: translate(414.0px,74.0px); }
+  57.4310% { transform: translate(427.0px,74.0px); }
+  57.9087% { transform: translate(440.0px,74.0px); }
+  58.3864% { transform: translate(453.0px,74.0px); }
+  58.8641% { transform: translate(466.0px,74.0px); }
+  59.3418% { transform: translate(479.0px,74.0px); }
+  59.8195% { transform: translate(492.0px,74.0px); }
+  60.2972% { transform: translate(505.0px,74.0px); }
+  60.7749% { transform: translate(518.0px,74.0px); }
+  61.2527% { transform: translate(531.0px,74.0px); }
+  61.7304% { transform: translate(544.0px,74.0px); }
+  62.2081% { transform: translate(557.0px,74.0px); }
+  62.6858% { transform: translate(570.0px,74.0px); }
+  63.1635% { transform: translate(583.0px,74.0px); }
+  63.6412% { transform: translate(596.0px,74.0px); }
+  64.1189% { transform: translate(609.0px,74.0px); }
+  64.5966% { transform: translate(622.0px,74.0px); }
+  65.0743% { transform: translate(635.0px,74.0px); }
+  65.5520% { transform: translate(648.0px,74.0px); }
+  66.0297% { transform: translate(661.0px,74.0px); }
+  66.5074% { transform: translate(674.0px,74.0px); }
+  66.9851% { transform: translate(687.0px,74.0px); }
+  67.4628% { transform: translate(700.0px,74.0px); }
+  67.9406% { transform: translate(713.0px,74.0px); }
+  68.4183% { transform: translate(726.0px,74.0px); }
+  68.8960% { transform: translate(739.0px,74.0px); }
+  69.3737% { transform: translate(752.0px,74.0px); }
+  69.8514% { transform: translate(765.0px,74.0px); }
+  70.3291% { transform: translate(778.0px,74.0px); }
+  70.8068% { transform: translate(791.0px,74.0px); }
+  71.2845% { transform: translate(804.0px,74.0px); }
+  71.7622% { transform: translate(817.0px,74.0px); }
+  72.2399% { transform: translate(830.0px,74.0px); }
+  72.7176% { transform: translate(843.0px,74.0px); }
+  73.1953% { transform: translate(856.0px,74.0px); }
+  73.6730% { transform: translate(869.0px,74.0px); }
+  74.1507% { transform: translate(882.0px,74.0px); }
+  74.6285% { transform: translate(895.0px,74.0px); }
+  75.1062% { transform: translate(908.0px,74.0px); }
+  96.8153% { transform: translate(-999.0px,-999.0px); }
+  100.0000% { transform: translate(-999.0px,-999.0px); }
+}
+@keyframes a0{0%,5.308%{opacity:0}5.558%,100%{opacity:1}}
+@keyframes a1{0%,5.786%{opacity:0}6.036%,100%{opacity:1}}
+@keyframes a2{0%,6.263%{opacity:0}6.513%,100%{opacity:1}}
+@keyframes a3{0%,6.741%{opacity:0}6.991%,100%{opacity:1}}
+@keyframes a4{0%,7.219%{opacity:0}7.469%,100%{opacity:1}}
+@keyframes a5{0%,7.696%{opacity:0}7.946%,100%{opacity:1}}
+@keyframes a6{0%,8.174%{opacity:0}8.424%,100%{opacity:1}}
+@keyframes a7{0%,8.652%{opacity:0}8.902%,100%{opacity:1}}
+@keyframes a8{0%,9.130%{opacity:0}9.380%,100%{opacity:1}}
+@keyframes a9{0%,9.607%{opacity:0}9.857%,100%{opacity:1}}
+@keyframes a10{0%,10.085%{opacity:0}10.335%,100%{opacity:1}}
+@keyframes a11{0%,10.563%{opacity:0}10.813%,100%{opacity:1}}
+@keyframes a12{0%,11.040%{opacity:0}11.290%,100%{opacity:1}}
+@keyframes a13{0%,11.518%{opacity:0}11.768%,100%{opacity:1}}
+@keyframes a14{0%,11.996%{opacity:0}12.246%,100%{opacity:1}}
+@keyframes a15{0%,12.473%{opacity:0}12.723%,100%{opacity:1}}
+@keyframes a16{0%,12.951%{opacity:0}13.201%,100%{opacity:1}}
+@keyframes a17{0%,13.429%{opacity:0}13.679%,100%{opacity:1}}
+@keyframes a18{0%,13.907%{opacity:0}14.157%,100%{opacity:1}}
+@keyframes a19{0%,14.384%{opacity:0}14.634%,100%{opacity:1}}
+@keyframes a20{0%,14.862%{opacity:0}15.112%,100%{opacity:1}}
+@keyframes a21{0%,15.340%{opacity:0}15.590%,100%{opacity:1}}
+@keyframes a22{0%,15.817%{opacity:0}16.067%,100%{opacity:1}}
+@keyframes a23{0%,16.295%{opacity:0}16.545%,100%{opacity:1}}
+@keyframes a24{0%,16.773%{opacity:0}17.023%,100%{opacity:1}}
+@keyframes a25{0%,17.251%{opacity:0}17.501%,100%{opacity:1}}
+@keyframes a26{0%,17.728%{opacity:0}17.978%,100%{opacity:1}}
+@keyframes a27{0%,18.206%{opacity:0}18.456%,100%{opacity:1}}
+@keyframes a28{0%,18.684%{opacity:0}18.934%,100%{opacity:1}}
+@keyframes a29{0%,19.161%{opacity:0}19.411%,100%{opacity:1}}
+@keyframes a30{0%,19.639%{opacity:0}19.889%,100%{opacity:1}}
+@keyframes a31{0%,20.117%{opacity:0}20.367%,100%{opacity:1}}
+@keyframes a32{0%,20.594%{opacity:0}20.844%,100%{opacity:1}}
+@keyframes a33{0%,21.072%{opacity:0}21.322%,100%{opacity:1}}
+@keyframes a34{0%,21.550%{opacity:0}21.800%,100%{opacity:1}}
+@keyframes a35{0%,22.028%{opacity:0}22.278%,100%{opacity:1}}
+@keyframes a36{0%,22.505%{opacity:0}22.755%,100%{opacity:1}}
+@keyframes a37{0%,22.983%{opacity:0}23.233%,100%{opacity:1}}
+@keyframes a38{0%,23.461%{opacity:0}23.711%,100%{opacity:1}}
+@keyframes a39{0%,23.938%{opacity:0}24.188%,100%{opacity:1}}
+@keyframes a40{0%,24.416%{opacity:0}24.666%,100%{opacity:1}}
+@keyframes a41{0%,24.894%{opacity:0}25.144%,100%{opacity:1}}
+@keyframes a42{0%,25.372%{opacity:0}25.622%,100%{opacity:1}}
+@keyframes a43{0%,25.849%{opacity:0}26.099%,100%{opacity:1}}
+@keyframes a44{0%,26.327%{opacity:0}26.577%,100%{opacity:1}}
+@keyframes a45{0%,26.805%{opacity:0}27.055%,100%{opacity:1}}
+@keyframes a46{0%,27.282%{opacity:0}27.532%,100%{opacity:1}}
+@keyframes a47{0%,27.760%{opacity:0}28.010%,100%{opacity:1}}
+@keyframes a48{0%,28.238%{opacity:0}28.488%,100%{opacity:1}}
+@keyframes a49{0%,28.715%{opacity:0}28.965%,100%{opacity:1}}
+@keyframes a50{0%,29.193%{opacity:0}29.443%,100%{opacity:1}}
+@keyframes a51{0%,29.671%{opacity:0}29.921%,100%{opacity:1}}
+@keyframes a52{0%,30.149%{opacity:0}30.399%,100%{opacity:1}}
+@keyframes a53{0%,30.626%{opacity:0}30.876%,100%{opacity:1}}
+@keyframes a54{0%,31.104%{opacity:0}31.354%,100%{opacity:1}}
+@keyframes a55{0%,31.582%{opacity:0}31.832%,100%{opacity:1}}
+@keyframes a56{0%,32.059%{opacity:0}32.309%,100%{opacity:1}}
+@keyframes a57{0%,32.537%{opacity:0}32.787%,100%{opacity:1}}
+@keyframes a58{0%,33.015%{opacity:0}33.265%,100%{opacity:1}}
+@keyframes a59{0%,33.493%{opacity:0}33.743%,100%{opacity:1}}
+@keyframes a60{0%,33.970%{opacity:0}34.220%,100%{opacity:1}}
+@keyframes a61{0%,34.448%{opacity:0}34.698%,100%{opacity:1}}
+@keyframes a62{0%,34.926%{opacity:0}35.176%,100%{opacity:1}}
+@keyframes a63{0%,35.403%{opacity:0}35.653%,100%{opacity:1}}
+@keyframes a64{0%,35.881%{opacity:0}36.131%,100%{opacity:1}}
+@keyframes a65{0%,36.359%{opacity:0}36.609%,100%{opacity:1}}
+@keyframes a66{0%,36.837%{opacity:0}37.087%,100%{opacity:1}}
+@keyframes a67{0%,37.314%{opacity:0}37.564%,100%{opacity:1}}
+@keyframes b0{0%,43.100%{opacity:0}43.350%,100%{opacity:1}}
+@keyframes b1{0%,43.577%{opacity:0}43.827%,100%{opacity:1}}
+@keyframes b2{0%,44.055%{opacity:0}44.305%,100%{opacity:1}}
+@keyframes b3{0%,44.533%{opacity:0}44.783%,100%{opacity:1}}
+@keyframes b4{0%,45.011%{opacity:0}45.261%,100%{opacity:1}}
+@keyframes b5{0%,45.488%{opacity:0}45.738%,100%{opacity:1}}
+@keyframes b6{0%,45.966%{opacity:0}46.216%,100%{opacity:1}}
+@keyframes b7{0%,46.444%{opacity:0}46.694%,100%{opacity:1}}
+@keyframes b8{0%,46.921%{opacity:0}47.171%,100%{opacity:1}}
+@keyframes b9{0%,47.399%{opacity:0}47.649%,100%{opacity:1}}
+@keyframes b10{0%,47.877%{opacity:0}48.127%,100%{opacity:1}}
+@keyframes b11{0%,48.355%{opacity:0}48.605%,100%{opacity:1}}
+@keyframes b12{0%,48.832%{opacity:0}49.082%,100%{opacity:1}}
+@keyframes b13{0%,49.310%{opacity:0}49.560%,100%{opacity:1}}
+@keyframes b14{0%,49.788%{opacity:0}50.038%,100%{opacity:1}}
+@keyframes b15{0%,50.265%{opacity:0}50.515%,100%{opacity:1}}
+@keyframes b16{0%,50.743%{opacity:0}50.993%,100%{opacity:1}}
+@keyframes b17{0%,51.221%{opacity:0}51.471%,100%{opacity:1}}
+@keyframes b18{0%,51.699%{opacity:0}51.949%,100%{opacity:1}}
+@keyframes b19{0%,52.176%{opacity:0}52.426%,100%{opacity:1}}
+@keyframes b20{0%,52.654%{opacity:0}52.904%,100%{opacity:1}}
+@keyframes b21{0%,53.132%{opacity:0}53.382%,100%{opacity:1}}
+@keyframes b22{0%,53.609%{opacity:0}53.859%,100%{opacity:1}}
+@keyframes b23{0%,54.087%{opacity:0}54.337%,100%{opacity:1}}
+@keyframes b24{0%,54.565%{opacity:0}54.815%,100%{opacity:1}}
+@keyframes b25{0%,55.042%{opacity:0}55.292%,100%{opacity:1}}
+@keyframes b26{0%,55.520%{opacity:0}55.770%,100%{opacity:1}}
+@keyframes b27{0%,55.998%{opacity:0}56.248%,100%{opacity:1}}
+@keyframes b28{0%,56.476%{opacity:0}56.726%,100%{opacity:1}}
+@keyframes b29{0%,56.953%{opacity:0}57.203%,100%{opacity:1}}
+@keyframes b30{0%,57.431%{opacity:0}57.681%,100%{opacity:1}}
+@keyframes b31{0%,57.909%{opacity:0}58.159%,100%{opacity:1}}
+@keyframes b32{0%,58.386%{opacity:0}58.636%,100%{opacity:1}}
+@keyframes b33{0%,58.864%{opacity:0}59.114%,100%{opacity:1}}
+@keyframes b34{0%,59.342%{opacity:0}59.592%,100%{opacity:1}}
+@keyframes b35{0%,59.820%{opacity:0}60.070%,100%{opacity:1}}
+@keyframes b36{0%,60.297%{opacity:0}60.547%,100%{opacity:1}}
+@keyframes b37{0%,60.775%{opacity:0}61.025%,100%{opacity:1}}
+@keyframes b38{0%,61.253%{opacity:0}61.503%,100%{opacity:1}}
+@keyframes b39{0%,61.730%{opacity:0}61.980%,100%{opacity:1}}
+@keyframes b40{0%,62.208%{opacity:0}62.458%,100%{opacity:1}}
+@keyframes b41{0%,62.686%{opacity:0}62.936%,100%{opacity:1}}
+@keyframes b42{0%,63.163%{opacity:0}63.413%,100%{opacity:1}}
+@keyframes b43{0%,63.641%{opacity:0}63.891%,100%{opacity:1}}
+@keyframes b44{0%,64.119%{opacity:0}64.369%,100%{opacity:1}}
+@keyframes b45{0%,64.597%{opacity:0}64.847%,100%{opacity:1}}
+@keyframes b46{0%,65.074%{opacity:0}65.324%,100%{opacity:1}}
+@keyframes b47{0%,65.552%{opacity:0}65.802%,100%{opacity:1}}
+@keyframes b48{0%,66.030%{opacity:0}66.280%,100%{opacity:1}}
+@keyframes b49{0%,66.507%{opacity:0}66.757%,100%{opacity:1}}
+@keyframes b50{0%,66.985%{opacity:0}67.235%,100%{opacity:1}}
+@keyframes b51{0%,67.463%{opacity:0}67.713%,100%{opacity:1}}
+@keyframes b52{0%,67.941%{opacity:0}68.191%,100%{opacity:1}}
+@keyframes b53{0%,68.418%{opacity:0}68.668%,100%{opacity:1}}
+@keyframes b54{0%,68.896%{opacity:0}69.146%,100%{opacity:1}}
+@keyframes b55{0%,69.374%{opacity:0}69.624%,100%{opacity:1}}
+@keyframes b56{0%,69.851%{opacity:0}70.101%,100%{opacity:1}}
+@keyframes b57{0%,70.329%{opacity:0}70.579%,100%{opacity:1}}
+@keyframes b58{0%,70.807%{opacity:0}71.057%,100%{opacity:1}}
+@keyframes b59{0%,71.285%{opacity:0}71.535%,100%{opacity:1}}
+@keyframes b60{0%,71.762%{opacity:0}72.012%,100%{opacity:1}}
+@keyframes b61{0%,72.240%{opacity:0}72.490%,100%{opacity:1}}
+@keyframes b62{0%,72.718%{opacity:0}72.968%,100%{opacity:1}}
+@keyframes b63{0%,73.195%{opacity:0}73.445%,100%{opacity:1}}
+@keyframes b64{0%,73.673%{opacity:0}73.923%,100%{opacity:1}}
+@keyframes b65{0%,74.151%{opacity:0}74.401%,100%{opacity:1}}
+@keyframes b66{0%,74.628%{opacity:0}74.878%,100%{opacity:1}}
+@keyframes b67{0%,75.106%{opacity:0}75.356%,100%{opacity:1}}
+@media (prefers-reduced-motion: reduce) {
+  .char   { animation: none; opacity: 1; }
+  .cursor { animation: none; opacity: 0; }
+}
+</style>
+<rect class="panel" x="0" y="0" width="932" height="110" rx="10"/>
+<text class="char" x="24.0" y="40" style="animation-name:a0">&gt;</text>
+<text class="char" x="50.0" y="40" style="animation-name:a2">I</text>
+<text class="char" x="76.0" y="40" style="animation-name:a4">l</text>
+<text class="char" x="89.0" y="40" style="animation-name:a5">i</text>
+<text class="char" x="102.0" y="40" style="animation-name:a6">k</text>
+<text class="char" x="115.0" y="40" style="animation-name:a7">e</text>
+<text class="char" x="141.0" y="40" style="animation-name:a9">p</text>
+<text class="char" x="154.0" y="40" style="animation-name:a10">r</text>
+<text class="char" x="167.0" y="40" style="animation-name:a11">o</text>
+<text class="char" x="180.0" y="40" style="animation-name:a12">b</text>
+<text class="char" x="193.0" y="40" style="animation-name:a13">l</text>
+<text class="char" x="206.0" y="40" style="animation-name:a14">e</text>
+<text class="char" x="219.0" y="40" style="animation-name:a15">m</text>
+<text class="char" x="232.0" y="40" style="animation-name:a16">s</text>
+<text class="char" x="258.0" y="40" style="animation-name:a18">w</text>
+<text class="char" x="271.0" y="40" style="animation-name:a19">h</text>
+<text class="char" x="284.0" y="40" style="animation-name:a20">e</text>
+<text class="char" x="297.0" y="40" style="animation-name:a21">r</text>
+<text class="char" x="310.0" y="40" style="animation-name:a22">e</text>
+<text class="char" x="336.0" y="40" style="animation-name:a24">t</text>
+<text class="char" x="349.0" y="40" style="animation-name:a25">h</text>
+<text class="char" x="362.0" y="40" style="animation-name:a26">e</text>
+<text class="char" x="388.0" y="40" style="animation-name:a28">h</text>
+<text class="char" x="401.0" y="40" style="animation-name:a29">a</text>
+<text class="char" x="414.0" y="40" style="animation-name:a30">r</text>
+<text class="char" x="427.0" y="40" style="animation-name:a31">d</text>
+<text class="char" x="453.0" y="40" style="animation-name:a33">p</text>
+<text class="char" x="466.0" y="40" style="animation-name:a34">a</text>
+<text class="char" x="479.0" y="40" style="animation-name:a35">r</text>
+<text class="char" x="492.0" y="40" style="animation-name:a36">t</text>
+<text class="char" x="518.0" y="40" style="animation-name:a38">i</text>
+<text class="char" x="531.0" y="40" style="animation-name:a39">s</text>
+<text class="char" x="557.0" y="40" style="animation-name:a41">t</text>
+<text class="char" x="570.0" y="40" style="animation-name:a42">h</text>
+<text class="char" x="583.0" y="40" style="animation-name:a43">e</text>
+<text class="char" x="609.0" y="40" style="animation-name:a45">d</text>
+<text class="char" x="622.0" y="40" style="animation-name:a46">e</text>
+<text class="char" x="635.0" y="40" style="animation-name:a47">s</text>
+<text class="char" x="648.0" y="40" style="animation-name:a48">i</text>
+<text class="char" x="661.0" y="40" style="animation-name:a49">g</text>
+<text class="char" x="674.0" y="40" style="animation-name:a50">n</text>
+<text class="char" x="687.0" y="40" style="animation-name:a51">,</text>
+<text class="char" x="713.0" y="40" style="animation-name:a53">n</text>
+<text class="char" x="726.0" y="40" style="animation-name:a54">o</text>
+<text class="char" x="739.0" y="40" style="animation-name:a55">t</text>
+<text class="char" x="765.0" y="40" style="animation-name:a57">t</text>
+<text class="char" x="778.0" y="40" style="animation-name:a58">h</text>
+<text class="char" x="791.0" y="40" style="animation-name:a59">e</text>
+<text class="char" x="817.0" y="40" style="animation-name:a61">s</text>
+<text class="char" x="830.0" y="40" style="animation-name:a62">y</text>
+<text class="char" x="843.0" y="40" style="animation-name:a63">n</text>
+<text class="char" x="856.0" y="40" style="animation-name:a64">t</text>
+<text class="char" x="869.0" y="40" style="animation-name:a65">a</text>
+<text class="char" x="882.0" y="40" style="animation-name:a66">x</text>
+<text class="char" x="895.0" y="40" style="animation-name:a67">.</text>
+<text class="char" x="24.0" y="74" style="animation-name:b0">&gt;</text>
+<text class="char" x="50.0" y="74" style="animation-name:b2">I</text>
+<text class="char" x="76.0" y="74" style="animation-name:b4">t</text>
+<text class="char" x="89.0" y="74" style="animation-name:b5">a</text>
+<text class="char" x="102.0" y="74" style="animation-name:b6">k</text>
+<text class="char" x="115.0" y="74" style="animation-name:b7">e</text>
+<text class="char" x="141.0" y="74" style="animation-name:b9">v</text>
+<text class="char" x="154.0" y="74" style="animation-name:b10">a</text>
+<text class="char" x="167.0" y="74" style="animation-name:b11">g</text>
+<text class="char" x="180.0" y="74" style="animation-name:b12">u</text>
+<text class="char" x="193.0" y="74" style="animation-name:b13">e</text>
+<text class="char" x="219.0" y="74" style="animation-name:b15">r</text>
+<text class="char" x="232.0" y="74" style="animation-name:b16">e</text>
+<text class="char" x="245.0" y="74" style="animation-name:b17">q</text>
+<text class="char" x="258.0" y="74" style="animation-name:b18">u</text>
+<text class="char" x="271.0" y="74" style="animation-name:b19">i</text>
+<text class="char" x="284.0" y="74" style="animation-name:b20">r</text>
+<text class="char" x="297.0" y="74" style="animation-name:b21">e</text>
+<text class="char" x="310.0" y="74" style="animation-name:b22">m</text>
+<text class="char" x="323.0" y="74" style="animation-name:b23">e</text>
+<text class="char" x="336.0" y="74" style="animation-name:b24">n</text>
+<text class="char" x="349.0" y="74" style="animation-name:b25">t</text>
+<text class="char" x="362.0" y="74" style="animation-name:b26">s</text>
+<text class="char" x="388.0" y="74" style="animation-name:b28">a</text>
+<text class="char" x="401.0" y="74" style="animation-name:b29">n</text>
+<text class="char" x="414.0" y="74" style="animation-name:b30">d</text>
+<text class="char" x="440.0" y="74" style="animation-name:b32">t</text>
+<text class="char" x="453.0" y="74" style="animation-name:b33">u</text>
+<text class="char" x="466.0" y="74" style="animation-name:b34">r</text>
+<text class="char" x="479.0" y="74" style="animation-name:b35">n</text>
+<text class="char" x="505.0" y="74" style="animation-name:b37">t</text>
+<text class="char" x="518.0" y="74" style="animation-name:b38">h</text>
+<text class="char" x="531.0" y="74" style="animation-name:b39">e</text>
+<text class="char" x="544.0" y="74" style="animation-name:b40">m</text>
+<text class="char" x="570.0" y="74" style="animation-name:b42">i</text>
+<text class="char" x="583.0" y="74" style="animation-name:b43">n</text>
+<text class="char" x="596.0" y="74" style="animation-name:b44">t</text>
+<text class="char" x="609.0" y="74" style="animation-name:b45">o</text>
+<text class="char" x="635.0" y="74" style="animation-name:b47">s</text>
+<text class="char" x="648.0" y="74" style="animation-name:b48">c</text>
+<text class="char" x="661.0" y="74" style="animation-name:b49">h</text>
+<text class="char" x="674.0" y="74" style="animation-name:b50">e</text>
+<text class="char" x="687.0" y="74" style="animation-name:b51">m</text>
+<text class="char" x="700.0" y="74" style="animation-name:b52">a</text>
+<text class="char" x="713.0" y="74" style="animation-name:b53">s</text>
+<text class="char" x="739.0" y="74" style="animation-name:b55">t</text>
+<text class="char" x="752.0" y="74" style="animation-name:b56">h</text>
+<text class="char" x="765.0" y="74" style="animation-name:b57">a</text>
+<text class="char" x="778.0" y="74" style="animation-name:b58">t</text>
+<text class="char" x="804.0" y="74" style="animation-name:b60">h</text>
+<text class="char" x="817.0" y="74" style="animation-name:b61">o</text>
+<text class="char" x="830.0" y="74" style="animation-name:b62">l</text>
+<text class="char" x="843.0" y="74" style="animation-name:b63">d</text>
+<text class="char" x="869.0" y="74" style="animation-name:b65">u</text>
+<text class="char" x="882.0" y="74" style="animation-name:b66">p</text>
+<text class="char" x="895.0" y="74" style="animation-name:b67">.</text>
+<rect class="cursor" x="0" y="-15.6" width="2" height="18.0"/>
+</svg>
