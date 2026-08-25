@@ -1,31 +1,14 @@
+<table> <tr> <td width="58%" valign="top">
 Harshil Aggarwal
 
-Backend engineer working on document pipelines, identity systems, and the AI services behind them. IIT Kharagpur '26.
+I like taking a vague requirement, working out what it actually needs to do, and building something that holds up once real people use it.
 
-Currently an engineer at Inspira Enterprise (Bengaluru), working across production infrastructure and security tooling.
+Came up through competitive programming, which is where I learned to work inside constraints, then moved toward building whole systems — APIs, data models, and the services around them. B.Tech from <b>IIT Kharagpur '26</b>; currently an engineer at <b>Inspira Enterprise</b> in Bengaluru, working across production infrastructure and security tooling.
 
-Stack
-Area	Tools
-Backend	Node.js, Express, TypeScript, FastAPI, Prisma
-Languages	TypeScript, Python, C++, Java
-Data	PostgreSQL, SQLite, Firestore
-AI / ML	Groq, LLaMA, PaddleOCR, PyMuPDF, RAG
-Frontend	React, Vite, TailwindCSS, Flutter
-Infra	AWS S3, Render, Docker, GitHub Actions
-Selected work
+Most drawn to backend work where the difficulty is in the design rather than the syntax.
 
-Multi-Agent Trade Document Platform — Python FastAPI React Node A four-agent pipeline that processes trade documents end to end: OCR and LLM extraction, deterministic rule validation, compliance routing, and natural-language querying over the results. Validation and routing decisions are pure Python — the LLM writes the explanation, never the verdict.
+</td> <td width="42%" valign="top"> <table> <tr><td><b>Backend</b></td><td><code>Node</code> <code>Express</code> <code>FastAPI</code> <code>Prisma</code></td></tr> <tr><td><b>Languages</b></td><td><code>TypeScript</code> <code>Python</code> <code>C++</code> <code>Java</code></td></tr> <tr><td><b>Data</b></td><td><code>PostgreSQL</code> <code>SQLite</code> <code>Firestore</code></td></tr> <tr><td><b>AI</b></td><td><code>Groq</code> <code>LLaMA</code> <code>PaddleOCR</code> <code>RAG</code></td></tr> <tr><td><b>Frontend</b></td><td><code>React</code> <code>Vite</code> <code>Tailwind</code> <code>Flutter</code></td></tr> <tr><td><b>Infra</b></td><td><code>AWS S3</code> <code>Docker</code> <code>Render</code></td></tr> </table> </td> </tr> </table> <sub> <a href="https://www.linkedin.com/in/harshil-aggarwal-950540255/">LinkedIn</a> &nbsp;&middot;&nbsp; <a href="mailto:YOUR_EMAIL_HERE">Email</a> </sub>
 
-Identity Reconciliation API — TypeScript Node Prisma A service that resolves fragmented contact records into a single identity graph. Merges duplicates across email and phone, enforces oldest-record-wins precedence, and handles late-stage merges of two previously separate identities. Live endpoint.
-
-Document Processor AI — Python FastAPI AWS Multi-tenant extraction from identity documents. Hybrid pipeline that routes digital PDFs through PyMuPDF and scanned images through OCR, with S3 pre-signed URLs and automated PII detection on the viewing layer.
-
-Algorithms
-
-Codeforces Specialist (peak 1587) · CodeChef 3★ (peak 1712) · Meta Hacker Cup 2024 Round 1 qualifier
+<br><br>
 
 <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Harshilagg/Harshilagg/output/pacman-contribution-graph-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Harshilagg/Harshilagg/output/pacman-contribution-graph.svg"> <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Harshilagg/Harshilagg/output/pacman-contribution-graph.svg"> </picture>
-
-[LinkedIn](https://www.linkedin.com/in/harshil-aggarwal-950540255/) · harshilaggarwal0207@gmail.com
-
-<!-- Optional stats card — uncomment only if your numbers look good. Check how it renders before keeping it. ![](https://github-readme-stats.vercel.app/api?username=Harshilagg&show_icons=true&hide_border=true&theme=transparent&hide=issues) -->
