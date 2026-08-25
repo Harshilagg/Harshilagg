@@ -1,10 +1,10 @@
-<div align="center"> <img src="assets/pacman.svg" width="100%" alt="Pac-Man eating buzzwords"> </div>
+<div align="center"> <img src="assests/pacman.svg" width="100%" alt="Pac-Man eating buzzwords"> </div>
 
 Backend-leaning engineer · IIT Kharagpur '26
 The hard part is the design, not the syntax.
 Ex-competitive programmer, so I still think in constraints.
 Most of my good commits are deletions.
-<div align="center"> <img src="assets/solari.svg" width="100%" alt="Split-flap status board"> </div> <br>
+<div align="center"> <img src="assests/solari.svg" width="100%" alt="Split-flap status board"> </div> <br>
 
 **Languages**
 
