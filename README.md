@@ -1,4 +1,4 @@
-<div align="right"> <a href="https://www.linkedin.com/in/harshil-aggarwal-950540255/"> <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="22" alt="LinkedIn"> </a> &nbsp; <a href="mailto:harshilaggarwal0207@gmail.com"> <img src="https://cdn.simpleicons.org/gmail/EA4335" width="22" alt="Email"> </a> </div> <table> <tr> <td width="58%" valign="top">
+<div align="right"> <a href="https://www.linkedin.com/in/harshil-aggarwal-950540255/"> <img src="assets/linkedin.svg" width="22" alt="LinkedIn"> </a> &nbsp; <a href="mailto:YOUR_EMAIL_HERE"> <img src="assets/email.svg" width="22" alt="Email"> </a> </div> <table> <tr> <td width="58%" valign="top">
 I like taking a vague requirement, working out what it actually needs to do, and building something that holds up once real people use it.
 
 Came up through competitive programming, which is where I learned to work inside constraints, then moved toward building whole systems — APIs, data models, and the services around them. B.Tech from <b>IIT Kharagpur '26</b>
