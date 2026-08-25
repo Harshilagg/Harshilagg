@@ -3,18 +3,17 @@
 
 <div align="center"> <img src="assests/terminal.svg" width="100%" alt="Terminal: about me"> </div>
 
-<div align="left">
+<div align="center">
 
-<sub><code>LANGUAGES</code></sub> &nbsp; <img height="30" align="middle" src="https://skillicons.dev/icons?i=ts,py,cpp,java,js,bash,go&theme=dark">
-<br><br>
+<table>
+<tr>
+<td align="center"><sub><code>LANGUAGES</code></sub><br><img height="30" src="https://skillicons.dev/icons?i=ts,py,cpp,java,js,bash,go&theme=dark"></td>
+<td align="center"><sub><code>BACKEND</code></sub><br><img height="30" src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring,prisma,redis,kafka,postgres,mongodb&theme=dark"></td>
+<td align="center"><sub><code>FRONTEND</code></sub><br><img height="30" src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,vite,html,css&theme=dark"></td>
+<td align="center"><sub><code>DEVOPS</code></sub><br><img height="30" src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,nginx,linux,vercel&theme=dark"></td>
+</tr>
+</table>
 
-<sub><code>BACKEND</code></sub> &nbsp; <img height="30" align="middle" src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring,prisma,redis,kafka,postgres,mongodb&theme=dark">
-<br><br>
-
-<sub><code>FRONTEND</code></sub> &nbsp; <img height="30" align="middle" src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,vite,html,css&theme=dark">
-<br><br>
-
-<sub><code>DEVOPS</code></sub> &nbsp; <img height="30" align="middle" src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,nginx,linux,vercel&theme=dark">
 </div>
 
 
