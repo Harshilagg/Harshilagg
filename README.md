@@ -1,3 +1,4 @@
+<table> <tr> <td width="58%" valign="top">
 I like taking a vague requirement, working out what it actually needs to do, and building something that holds up once real people use it.
 
 Came up through competitive programming, which is where I learned to work inside constraints, then moved toward building whole systems — APIs, data models, and the services around them. B.Tech from <b>IIT Kharagpur '26</b>
