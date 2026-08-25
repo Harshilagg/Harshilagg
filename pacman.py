@@ -1,5 +1,5 @@
-EATEN = "PASSIONATE \u00b7 NINJA \u00b7 ROCKSTAR \u00b7 10X \u00b7 GURU"
-REVEAL = "just builds things that work"
+EATEN = "IT'S PROBABLY A CACHING ISSUE"
+REVEAL = "it was a caching issue"
 
 W, H = 844, 150
 CW = 13                # per-character advance
